@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orders - KeyVault</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <header class="topbar"><div class="container nav"><a class="brand" href="/"><span class="brand-mark"><span></span><span></span><span></span><span></span></span>KeyVault</a><div class="nav-actions"><a class="ghost-btn" href="/">Store</a></div></div></header>
+    <main class="container page">
+        <h1>Order history</h1>
+        <div id="orders" class="table-wrap"></div>
+        <div id="detail" style="margin-top:20px"></div>
+    </main>
+    <script>
+        const token = localStorage.getItem('kv_token') || '';
+        const headers = { Authorization: `Bearer ${token}` };
+        async function api(path) {
+            const res = await fetch(path, { headers });
+            const data = await res.json().catch(() => ({}));
+            if (!res.ok) throw new Error(data.error || 'Request failed');
+            return data;
+        }
+        async function load() {
+            if (!token) throw new Error('Please sign in from the store first.');
+            const data = await api('/api/orders');
+            document.getElementById('orders').innerHTML = `<table><thead><tr><th>Order</th><th>Status</th><th>Total</th><th>Date</th><th></th></tr></thead><tbody>${data.orders.map((o) => `<tr><td>#${o.id}</td><td>${o.status}</td><td>$${Number(o.total_amount).toFixed(2)}</td><td>${o.created_at}</td><td><button class="ghost-btn" onclick="detail(${o.id})">View keys</button></td></tr>`).join('') || '<tr><td colspan="5">No orders yet.</td></tr>'}</tbody></table>`;
+        }
+        async function detail(id) {
+            const data = await api(`/api/orders/${id}`);
+            document.getElementById('detail').innerHTML = `<h2>Order #${id}</h2><div class="table-wrap"><table><thead><tr><th>Product</th><th>Key</th></tr></thead><tbody>${data.order.codes.map((c) => `<tr><td>${c.product_name}</td><td><strong>${c.code}</strong></td></tr>`).join('') || '<tr><td colspan="2">No delivered keys yet.</td></tr>'}</tbody></table></div>`;
+        }
+        load().catch((err) => document.getElementById('orders').innerHTML = `<div class="notice">${err.message}</div>`);
+        window.detail = detail;
+    </script>
+</body>
+</html>

@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KeyVault - Windows & Office License Keys</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <header class="topbar">
+        <div class="container nav">
+            <a class="brand" href="/">
+                <span class="brand-mark"><span></span><span></span><span></span><span></span></span>
+                KeyVault
+            </a>
+            <div class="nav-actions">
+                <a class="link-btn" href="/orders">Orders</a>
+                <button class="ghost-btn" id="authButton">Sign in</button>
+                <button class="icon-btn cart-btn" id="cartButton">Cart <span class="cart-count" id="cartCount">0</span></button>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container hero-inner">
+            <div>
+                <h1>Windows & Office keys delivered instantly.</h1>
+                <p>Buy genuine digital license keys for Windows and Microsoft Office with secure checkout, instant order history, and automatic key delivery.</p>
+                <div class="filters">
+                    <a class="primary-btn" href="#featured-product">Shop keys</a>
+                    <a class="ghost-btn" href="/admin">Admin</a>
+                </div>
+            </div>
+            <div class="hero-panel" id="heroDeals"></div>
+        </div>
+    </section>
+
+    <div id="featured-product" class="container featured-section">
+        <div class="featured-card" id="featuredProduct"></div>
+    </div>
+
+    <main class="container" id="products">
+        <div class="section-head">
+            <div>
+                <h2>Featured licenses & bundles</h2>
+                <p>Choose from individual licenses or save more with our exclusive bundles.</p>
+            </div>
+            <div class="filters">
+                <select id="categoryFilter" class="search">
+                    <option value="all">All products</option>
+                    <option value="windows">Windows</option>
+                    <option value="office">Office</option>
+                </select>
+                <input class="search" id="searchInput" placeholder="Search Windows, Office..." autocomplete="off">
+            </div>
+        </div>
+        <div class="products-grid" id="productsGrid"></div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">KeyVault demo storefront. Configure Stripe and SMTP before production use.</div>
+    </footer>
+
+    <div class="drawer" id="cartDrawer">
+        <div class="overlay" data-close="cart"></div>
+        <aside class="drawer-panel">
+            <div class="drawer-head">
+                <strong>Your cart</strong>
+                <button class="ghost-btn" data-close="cart">Close</button>
+            </div>
+            <div class="cart-items" id="cartItems"></div>
+            <div class="drawer-foot">
+                <div class="total"><span>Total</span><span id="cartTotal">$0.00</span></div>
+                <button class="primary-btn" id="checkoutButton" style="width:100%">Checkout</button>
+                <div class="notice">Guest checkout is available. Sign in only if you want persistent cart and order history.</div>
+            </div>
+        </aside>
+    </div>
+
+    <div class="modal" id="guestModal">
+        <div class="overlay" data-close="guest"></div>
+        <div class="modal-card">
+            <div class="modal-head">
+                <strong>Guest checkout</strong>
+                <button class="ghost-btn" data-close="guest">Close</button>
+            </div>
+            <form class="modal-body" id="guestForm">
+                <div class="field">
+                    <label>Email for delivery</label>
+                    <input id="guestEmail" type="email" required autocomplete="email">
+                </div>
+                <div class="error" id="guestError"></div>
+                <button class="primary-btn" style="width:100%" type="submit">Continue to payment</button>
+                <button class="link-btn" style="width:100%;margin-top:10px" type="button" id="guestSignIn">Sign in instead</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="modal" id="authModal">
+        <div class="overlay" data-close="auth"></div>
+        <div class="modal-card">
+            <div class="modal-head">
+                <strong id="authTitle">Sign in</strong>
+                <button class="ghost-btn" data-close="auth">Close</button>
+            </div>
+            <form class="modal-body" id="authForm">
+                <div class="field" id="nameField" style="display:none">
+                    <label>Name</label>
+                    <input id="displayName" autocomplete="name">
+                </div>
+                <div class="field">
+                    <label>Email</label>
+                    <input id="email" type="email" required autocomplete="email">
+                </div>
+                <div class="field">
+                    <label>Password</label>
+                    <input id="password" type="password" required autocomplete="current-password">
+                </div>
+                <div class="error" id="authError"></div>
+                <button class="primary-btn" style="width:100%" type="submit">Continue</button>
+                <button class="link-btn" style="width:100%;margin-top:10px" type="button" id="toggleAuth">Create an account</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Product detail modal -->
+    <div class="modal" id="detailModal">
+        <div class="overlay" data-close="detail"></div>
+        <div class="modal-card">
+            <div class="modal-head">
+                <strong id="detailName">Product</strong>
+                <button class="ghost-btn" data-close="detail">Close</button>
+            </div>
+            <div class="modal-body">
+                <div class="detail-head">
+                    <div class="detail-price">
+                        <span id="detailPrice"></span>
+                        <span id="detailOriginalPrice"></span>
+                    </div>
+                    <div class="detail-desc" id="detailDesc"></div>
+                </div>
+                <div class="detail-images" id="detailImages"></div>
+                <button class="primary-btn" style="width:100%;margin-top:16px" id="detailAddToCart">Add to cart</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/app.js"></script></script>
+</body>
+</html>
+

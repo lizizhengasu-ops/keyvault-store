@@ -1,0 +1,8 @@
+node_modules/
+data/*.db
+.env
+
+projectfiles/
+.mygit/
+keyvault-project-code.zip
+.DS_Store

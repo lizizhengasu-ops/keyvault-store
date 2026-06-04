@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Complete - KeyVault</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <header class="topbar"><div class="container nav"><a class="brand" href="/"><span class="brand-mark"><span></span><span></span><span></span><span></span></span>KeyVault</a><div class="nav-actions"><a class="link-btn" href="/orders">Orders</a><a class="ghost-btn" href="/">Store</a></div></div></header>
+    <main class="container page">
+        <h1>Order complete</h1>
+        <p class="notice" id="message">Loading your order...</p>
+        <div id="order"></div>
+    </main>
+    <script>
+        const token = localStorage.getItem('kv_token') || '';
+        const params = new URLSearchParams(location.search);
+        const orderId = params.get('order');
+        const guestEmail = params.get('guest') || '';
+        const headers = { 'Content-Type': 'application/json' };
+        if (token) headers.Authorization = `Bearer ${token}`;
+        async function api(path, options = {}) {
+            const res = await fetch(path, { ...options, headers });
+            const data = await res.json().catch(() => ({}));
+            if (!res.ok) throw new Error(data.error || 'Request failed');
+            return data;
+        }
+        async function run() {
+            if (!token && !guestEmail) throw new Error('Please sign in or use the guest order link from checkout.');
+            if (params.get('dev') === '1') {
+                const path = token ? `/api/orders/${orderId}/dev-pay` : `/api/stripe/guest-order/${orderId}/dev-pay`;
+                await api(path, { method: 'POST', body: JSON.stringify({ email: guestEmail }) });
+            }
+            const data = token
+                ? await api(`/api/orders/${orderId}`)
+                : await api(`/api/stripe/guest-order/${orderId}?email=${encodeURIComponent(guestEmail)}`);
+            document.getElementById('message').textContent = data.order.status === 'paid' ? 'Your license keys are ready below.' : 'Payment is still pending.';
+            document.getElementById('order').innerHTML = `
+                <div class="table-wrap"><table>
+                    <thead><tr><th>Product</th><th>License key</th></tr></thead>
+                    <tbody>${data.order.codes.map((code) => `<tr><td>${code.product_name}</td><td><strong>${code.code}</strong></td></tr>`).join('') || '<tr><td colspan="2">Keys will appear after payment confirmation.</td></tr>'}</tbody>
+                </table></div>
+            `;
+        }
+        run().catch((err) => document.getElementById('message').textContent = err.message);
+    </script>
+</body>
+</html>
