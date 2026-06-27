@@ -18,7 +18,14 @@
     "express-rate-limit": "^7.1.5",
     "helmet": "^7.1.0",
     "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.22.5",
     "nodemailer": "^8.0.10",
+    "playwright": "^1.60.0",
+    "sharp": "^0.35.1",
     "stripe": "^14.18.0"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
 }

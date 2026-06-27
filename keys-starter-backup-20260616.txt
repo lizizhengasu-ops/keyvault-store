@@ -1,0 +1,81 @@
+﻿
+=============================================
+  KEYS-STARTER WORDPRESS SITE - 完整项目备份
+  保存时间: 2026-06-16 00:26:22
+  站点URL: http://127.0.0.1:10005/
+  域名: keysavings.local
+=============================================
+
+## 1. 数据库连接信息
+DB_HOST: 127.0.0.1:10006
+DB_USER: root
+DB_PASSWORD: (空)
+DB_NAME: local
+
+## 2. WordPress 管理后台
+登录URL: http://127.0.0.1:10005/wp-admin/
+用户名: zizhenglee
+密码: snixhwnm1 (已通过 login-fix.php 恢复)
+替代登录: http://127.0.0.1:10005/login-fix.php (直接设置cookie)
+
+## 3. 服务器进程
+- nginx: 127.0.0.1:10005
+- PHP-CGI: 127.0.0.1:10004
+- MySQL: 127.0.0.1:10006
+
+## 4. 网站文件路径
+WordPress 根目录: C:\Users\31961\Local Sites\keysavings\app\public
+主题: astra (wp-content/themes/astra/)
+自定义代码: functions.php (当前文件大小: 17645 bytes)
+产品图片: wp-content/uploads/product_images_v2/
+
+## 5. 产品列表 (10个SKU)
+ID 14 - Windows 11 Professional (WINDOWSkey)
+ID 16 - Windows 11 Home (WINDOWSkey)
+ID 18 - Windows 10 Professional (WINDOWSkey)
+ID 20 - Windows 10 Home (WINDOWSkey)
+ID 22 - Windows Server 2022 Standard (WINDOWSkey)
+ID 24 - Office 2021 Professional Plus (KEYS)
+ID 26 - Office 2021 Home & Business (KEYS)
+ID 28 - Office 2019 Professional Plus (KEYS)
+ID 30 - Office 2019 Home & Business (KEYS)
+ID 32 - Microsoft 365 Personal (1 Year) (KEYS)
+
+## 6. 已修复的问题
+- wp-login.php 已从 WordPress 6.7.2 官方源恢复
+- 登录重定向循环已修复
+- 搜索栏中文乱码已修复
+
+## 7. 已实施的改造
+
+### 视觉风格 (微软风格)
+- 主色调: #0078d4 (微软蓝)
+- 字体: Segoe UI
+- 产品卡片: 圆角4px + 阴影 + 悬停上浮
+- 按钮: 紧凑型微软风格
+
+### 交互逻辑
+- 导航栏: 带下拉子菜单 (wincdkey 风格)
+- 搜索栏: 在导航栏左侧
+- 产品网格: 4列 grid 布局
+
+### 移动端适配
+- 768px以下: 2列网格
+- 480px以下: 1列
+- 搜索栏全宽
+- 导航间距优化
+
+### 购物车/结算页面
+- 购物车表格、总计、结算按钮
+- 结算表单、支付区域、下单按钮
+
+### 产品图片 (来自 wincdkey.com)
+- Windows产品: 使用Windows 11 Pro图
+- Office产品: 使用Office 2024/2019图
+- 共40个图片文件已替换
+
+## 8. 下次恢复时的重要文件
+- functions.php: wp-content/themes/astra/functions.php
+- 备份: wp-content/themes/astra/functions.php.backup
+- 登录修复: wp-login.php (已恢复)
+- 图片目录: wp-content/uploads/product_images_v2/

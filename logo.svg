@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <!-- Background -->
+  <rect width="400" height="120" fill="#ffffff" rx="8"/>
+  
+  <!-- 4 Colorful rings (like abstract tech rings) -->
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B6B"/>
+      <stop offset="100%" style="stop-color:#EE5A24"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4ECDC4"/>
+      <stop offset="100%" style="stop-color:#2ECC71"/>
+    </linearGradient>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#45AAF2"/>
+      <stop offset="100%" style="stop-color:#3498DB"/>
+    </linearGradient>
+    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#A29BFE"/>
+      <stop offset="100%" style="stop-color:#6C5CE7"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Ring 1 - Red/Orange -->
+  <circle cx="50" cy="45" r="18" fill="none" stroke="url(#g1)" stroke-width="4.5" opacity="0.9"/>
+  <!-- Ring 2 - Green/Teal -->
+  <circle cx="82" cy="45" r="18" fill="none" stroke="url(#g2)" stroke-width="4.5" opacity="0.9"/>
+  <!-- Ring 3 - Blue -->
+  <circle cx="114" cy="45" r="18" fill="none" stroke="url(#g3)" stroke-width="4.5" opacity="0.9"/>
+  <!-- Ring 4 - Purple -->
+  <circle cx="146" cy="45" r="18" fill="none" stroke="url(#g4)" stroke-width="4.5" opacity="0.9"/>
+  
+  <!-- Key icon in center of rings -->
+  <g transform="translate(98,45)">
+    <!-- Key shaft -->
+    <rect x="-2" y="-18" width="4" height="30" rx="2" fill="#2C3E50"/>
+    <!-- Key bow (handle) -->
+    <circle cx="0" cy="-16" r="8" fill="none" stroke="#2C3E50" stroke-width="3"/>
+    <!-- Key teeth -->
+    <rect x="2" y="4" width="8" height="2.5" rx="1" fill="#2C3E50"/>
+    <rect x="2" y="9" width="5" height="2.5" rx="1" fill="#2C3E50"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="200" y="42" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#2C3E50" letter-spacing="1">Keys-starter</text>
+  <text x="200" y="62" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#7F8C8D" letter-spacing="0.5">OS ACTIVATION KEY SPECIALIST</text>
+  
+  <!-- Service promise line -->
+  <text x="200" y="84" font-family="Arial, Helvetica, sans-serif" font-size="7.5" fill="#95A5A6" letter-spacing="1">INSTANT DELIVERY  •  GENUINE LICENSE  •  SECURE CHECKOUT</text>
+</svg>
