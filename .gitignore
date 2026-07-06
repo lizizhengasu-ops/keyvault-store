@@ -53,3 +53,15 @@ tsc-errors.txt
 
 # Database files
 *.db
+
+#
+# 旧备份目录（不进 git）
+ms-replica-backup-*/
+mifan-backup-*/
+mifan-site-backup-*/
+global-backup-*/
+mysql_recovery_backup/
+webbackup/
+test-gen-output/
+wp-test-output/
+
