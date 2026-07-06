@@ -1,0 +1,49 @@
+{
+  "title": {
+    "minLength": 30,
+    "maxLength": 65,
+    "required": true
+  },
+  "metaDescription": {
+    "minLength": 50,
+    "maxLength": 165,
+    "required": true
+  },
+  "h1": {
+    "count": 1,
+    "required": true
+  },
+  "jsonld": {
+    "required": true
+  },
+  "canonical": {
+    "required": true
+  },
+  "ogTitle": {
+    "required": true
+  },
+  "ogDescription": {
+    "required": true
+  },
+  "viewport": {
+    "required": true
+  },
+  "lang": {
+    "required": true
+  },
+  "favicon": {
+    "required": true
+  },
+  "qa": {
+    "minScore": 80,
+    "autoValidate": true,
+    "requiredChecks": [
+      "title",
+      "metaDescription",
+      "h1",
+      "jsonld",
+      "canonical"
+    ],
+    "failOnCritical": true
+  }
+}

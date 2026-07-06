@@ -1,0 +1,67 @@
+{
+  "name": "KeyVault SEO Strategy",
+  "version": "4.0",
+  "lastUpdated": "2026-07-06",
+  "corePrinciple": {
+    "description": "80% of SEO results come from early-stage work. Three legs: backlinks (trust) + content (traffic) + platforms (exposure).",
+    "keyInsight": "For activation code sites, trust signals through backlinks are the #1 priority, not content volume."
+  },
+  "phases": [
+    {
+      "id": "early",
+      "name": "早期 (Week 1-8)",
+      "effort": "80%",
+      "goal": "Technical foundation + On-Page + 12 content pieces + B2B pages + directory submissions",
+      "prerequisites": [],
+      "tasks": [
+        {"id":"e1","name":"Buy domain + SSL","type":"manual","effort":"15min","done":false},
+        {"id":"e2","name":"Deploy KeyVault","type":"manual","effort":"30min","done":false},
+        {"id":"e3","name":"Google Search Console","type":"manual","effort":"10min","done":false},
+        {"id":"e4","name":"Trustpilot + Sitejabber","type":"manual","effort":"20min","done":false},
+        {"id":"e5","name":"Google Business Profile","type":"manual","effort":"15min","done":false},
+        {"id":"e6","name":"Product feedback outreach","type":"manual","effort":"2-3h/wk","done":false},
+        {"id":"e7","name":"Where to buy listings","type":"manual","effort":"1h","done":false},
+        {"id":"e8","name":"Publish 12 articles","type":"content","effort":"4-6h/wk","done":false},
+        {"id":"e9","name":"B2B page + FAQ page","type":"content","effort":"2h","done":false}
+      ],
+      "milestones": ["Site indexed","First product feedback response","12 articles published"]
+    },
+    {
+      "id": "mid",
+      "name": "中期 (Week 8-16)",
+      "effort": "15%",
+      "goal": "Content refresh + link follow-up + review management + data analysis",
+      "prerequisites": ["e1","e2","e3","e4"],
+      "tasks": [
+        {"id":"m1","name":"Content refresh (every 2 weeks)","type":"maintenance","effort":"2h/wk","done":false},
+        {"id":"m2","name":"Link follow-up","type":"maintenance","effort":"1h/wk","done":false},
+        {"id":"m3","name":"Review management","type":"maintenance","effort":"30min/wk","done":false},
+        {"id":"m4","name":"Bi-weekly report analysis","type":"analysis","effort":"30min","done":false}
+      ],
+      "milestones": ["First keyword clicks in Search Console","Content showing in index"]
+    },
+    {
+      "id": "late",
+      "name": "后期 (Week 16+)",
+      "effort": "5%",
+      "goal": "Strategy adjustment + AI search exploration + monitoring",
+      "prerequisites": ["m1","m2","m3"],
+      "tasks": [
+        {"id":"l1","name":"Monthly Search Console review","type":"analysis","effort":"30min/mo","done":false},
+        {"id":"l2","name":"Content optimization (low performers)","type":"maintenance","effort":"1h/mo","done":false},
+        {"id":"l3","name":"AI search (GEO) exploration","type":"optional","effort":"1h/mo","done":false}
+      ],
+      "milestones": ["B2B pages getting impressions","Private domain conversions"]
+    }
+  ],
+  "sources": [
+    "大罗SEO Lessons 1-6: SEO framework",
+    "Ahrefs 5 Ecommerce Link Building: product feedback, where to buy",
+    "Ahrefs 7 Tips Small Business: directories, reviews",
+    "Backlinko Ecommerce SEO: keyword research",
+    "Backlinko SEO Strategy 2026: business outcomes > rankings",
+    "Backlinko Case Study: Nourish Move Love 0 to 180k",
+    "Shopify Product Page SEO: schema markup, descriptions",
+    "Moz On-Page SEO: content quality"
+  ]
+}

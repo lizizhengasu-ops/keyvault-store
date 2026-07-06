@@ -1,0 +1,36 @@
+{
+  "name": "@keyvault/seo-kit",
+  "version": "1.0.0",
+  "description": "Isolated SEO optimization toolkit for e-commerce sites. Generates Title/Meta/OG/JSON-LD, analyzes pages, validates rules, reports history.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "core/",
+    "config/",
+    "storage/",
+    "adapters/express.js",
+    "adapters/cli.js",
+    "adapters/http.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "start:http": "node adapters/http.js"
+  },
+  "type": "commonjs",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "seo",
+    "ecommerce",
+    "optimization",
+    "metadata",
+    "json-ld",
+    "schema"
+  ],
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+  }
+}

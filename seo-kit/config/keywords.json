@@ -1,0 +1,6 @@
+{
+  "b2b": ["bulk", "wholesale", "volume", "enterprise", "business", "company", "reseller", "corporate"],
+  "product": ["buy", "genuine", "OEM", "license", "key", "activation", "cheap", "discount", "lifetime"],
+  "guide": ["how to", "vs", "comparison", "guide", "tutorial", "best", "review"],
+  "trust": ["secure", "instant", "digital delivery", "money back", "guaranteed"]
+}

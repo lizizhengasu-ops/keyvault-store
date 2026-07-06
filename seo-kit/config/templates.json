@@ -1,0 +1,27 @@
+{
+  "product": {
+    "title": "Buy {name} - Genuine License | KeyVault",
+    "metaDescription": "Buy genuine {name}.{desc_short_spaced} Instant digital delivery. Lifetime activation.",
+    "h1": "{name}"
+  },
+  "category": {
+    "title": "{name} - Buy Genuine OEM License Keys | KeyVault",
+    "metaDescription": "Shop {name} at KeyVault. Genuine OEM licenses at 70% off retail.",
+    "h1": "{name}"
+  },
+  "guide": {
+    "title": "{name} - Complete SEO Guide | KeyVault",
+    "metaDescription": "{desc_short_spaced} Complete step-by-step guide from KeyVault.",
+    "h1": "{name}"
+  },
+  "b2b": {
+    "title": "{name} - Bulk Licensing for Business | KeyVault",
+    "metaDescription": "Bulk {name}. Volume discounts for businesses. Contact us for custom pricing.",
+    "h1": "{name}"
+  },
+  "faq": {
+    "title": "{name} - Frequently Asked Questions | KeyVault",
+    "metaDescription": "Frequently asked questions about {name}. Quick answers from KeyVault.",
+    "h1": "Frequently Asked Questions"
+  }
+}
