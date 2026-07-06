@@ -65,3 +65,31 @@ webbackup/
 test-gen-output/
 wp-test-output/
 
+
+#
+# 临时目录
+_archive/fktemp*/
+
+
+_archive/
+_templates/
+global-backup-*/
+mifan-backup-*/
+mifan-site-backup-*/
+ms-replica-backup-*/
+mysql_recovery_backup/
+webbackup/
+test-gen-output/
+wp-test-output/
+
+
+_archive/
+_templates/
+global-backup-*/
+mifan-backup-*/
+mifan-site-backup-*/
+ms-replica-backup-*/
+mysql_recovery_backup/
+webbackup/
+test-gen-output/
+wp-test-output/

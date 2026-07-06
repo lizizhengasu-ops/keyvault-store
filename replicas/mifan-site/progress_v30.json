@@ -1,0 +1,22 @@
+{
+  "version": "V30",
+  "url": "http://127.0.0.1:8118/",
+  "score": "~90.5% (non-product weighted)",
+  "target": "95%",
+  "sections": 16,
+  "btn-primary": "24px",
+  "nav_links": 17,
+  "features": [
+    "GSAP 15+ effects",
+    "Dropdown nav",
+    "FAQ section",
+    "Video section",
+    "Product specs",
+    "Customer reviews",
+    "Search overlay",
+    "Cart flyout",
+    "Scroll animations",
+    "Micro-interactions",
+    "Tooltips"
+  ]
+}

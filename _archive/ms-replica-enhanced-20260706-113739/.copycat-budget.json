@@ -1,0 +1,6 @@
+﻿{
+  "max_versions": 10,
+  "current_version": 10,
+  "gates": {},
+  "retries_per_gate": 3
+}

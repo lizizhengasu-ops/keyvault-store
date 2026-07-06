@@ -1,0 +1,106 @@
+{
+  "body": {
+    "fontFamily": "\"Segoe UI\", system-ui, sans-serif",
+    "fontSize": "15px",
+    "color": "#000000",
+    "bg": "#FFFFFF",
+    "lineHeight": "1.6"
+  },
+  "h1": {
+    "fontSize": "46px",
+    "fontWeight": "600",
+    "color": "#000000",
+    "lineHeight": "1.2"
+  },
+  "h2": {
+    "fontSize": "34px",
+    "fontWeight": "600",
+    "color": "#000000",
+    "lineHeight": "1.3"
+  },
+  "h3": {
+    "fontSize": "24px",
+    "fontWeight": "600",
+    "color": "#000000",
+    "lineHeight": "1.3"
+  },
+  "h4": {
+    "fontSize": "20px",
+    "fontWeight": "600",
+    "color": "#000000",
+    "lineHeight": "1.4"
+  },
+  "p": {
+    "fontSize": "15px",
+    "color": "#000000",
+    "lineHeight": "1.6"
+  },
+  "a": {
+    "color": "#0078D4",
+    "fontWeight": "400",
+    "textDecoration": "none"
+  },
+  "button": {
+    "bg": "#0078D4",
+    "color": "#FFFFFF",
+    "fontSize": "15px",
+    "fontWeight": "600",
+    "borderRadius": "2px",
+    "padding": "8px 20px"
+  },
+  "nav": {
+    "bg": "#FFFFFF",
+    "color": "#000000",
+    "height": "48px",
+    "borderBottom": "1px solid #E6E6E6"
+  },
+  "header": {
+    "bg": "#FFFFFF",
+    "color": "#000000"
+  },
+  "footer": {
+    "bg": "#F2F2F2",
+    "color": "#616161",
+    "fontSize": "12px"
+  },
+  "section": {
+    "padding": "48px 20px"
+  },
+  "hero": {
+    "bg": "#0078D4",
+    "color": "#FFFFFF",
+    "padding": "60px 20px",
+    "textAlign": "center"
+  },
+  "card": {
+    "bg": "#FFFFFF",
+    "borderRadius": "2px",
+    "boxShadow": "0 2px 8px rgba(0,0,0,0.08)",
+    "padding": "24px"
+  },
+  "colorPrimary": "#0078D4",
+  "colorSecondary": "#106EBE",
+  "colorAccent": "#1B1B1B",
+  "colorBg": "#FFFFFF",
+  "colorBgSection": "#F2F2F2",
+  "colorBgDark": "#2D2D2D",
+  "colorText": "#000000",
+  "colorTextSecondary": "#616161",
+  "colorLink": "#0078D4",
+  "colorWhite": "#FFFFFF",
+  "spacingXs": "4px",
+  "spacingSm": "8px",
+  "spacingMd": "16px",
+  "spacingLg": "24px",
+  "spacingXl": "32px",
+  "spacingXxl": "48px",
+  "fontSans": "\"Segoe UI\", system-ui, sans-serif",
+  "fontMono": "Consolas, monospace",
+  "fontSizeSm": "12px",
+  "fontSizeMd": "15px",
+  "fontSizeLg": "20px",
+  "fontSizeXl": "24px",
+  "radiusSm": "2px",
+  "radiusMd": "4px",
+  "radiusLg": "8px"
+}

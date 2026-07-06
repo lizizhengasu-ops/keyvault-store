@@ -1,0 +1,44 @@
+[36mvite v8.1.2 [32mbuilding client environment for production...[36m[39m
+[2K
+transforming...✓ 28 modules transformed.
+---STDERR---
+[2m19:47:41[22m [33m[1m[vite][22m[39m [33mwarning: `esbuild` option was specified by "vite:react-babel" plugin. This option is deprecated, please use `oxc` instead.[39m
+`optimizeDeps.rollupOptions` / `ssr.optimizeDeps.rollupOptions` is deprecated. Use `optimizeDeps.rolldownOptions` instead. Note that this option may be set by a plugin. Set VITE_DEPRECATION_TRACE=1 to see where it is called.
+[vite:react-babel] We recommend switching to `@vitejs/plugin-react-oxc` for improved performance. More information at https://vite.dev/rolldown
+[31m✗[39m Build failed in 66ms
+[31merror during build:
+[31mBuild failed with 3 errors:
+
+[31m[builtin:vite-transform] [0mUnexpected token. Did you mean `{'>'}` or `&gt;`?
+    [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/pages/StorePage.tsx:12:92 [38;5;246m][0m
+    [38;5;246m│[0m
+ [38;5;246m12 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0m[38;5;249ma[0m[38;5;249m [0m[38;5;249mh[0m[38;5;249mr[0m[38;5;249me[0m[38;5;249mf[0m[38;5;249m=[0m[38;5;249m'[0m[38;5;249m/[0m[38;5;249ms[0m[38;5;249mt[0m[38;5;249mo[0m[38;5;249mr[0m[38;5;249me[0m[38;5;249m'[0m[38;5;249m [0m[38;5;249ms[0m[38;5;249mt[0m[38;5;249my[0m[38;5;249ml[0m[38;5;249me[0m[38;5;249m=[0m[38;5;249m{[0m[38;5;249m{[0m[38;5;249mc[0m[38;5;249mo[0m[38;5;249ml[0m[38;5;249mo[0m[38;5;249mr[0m[38;5;249m:[0m[38;5;249m'[0m[38;5;249m#[0m[38;5;249m0[0m[38;5;249m0[0m[38;5;249m7[0m[38;5;249m8[0m[38;5;249mD[0m[38;5;249m4[0m[38;5;249m'[0m[38;5;249m,[0m[38;5;249mf[0m[38;5;249mo[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249mS[0m[38;5;249mi[0m[38;5;249mz[0m[38;5;249me[0m[38;5;249m:[0m[38;5;249m1[0m[38;5;249m3[0m[38;5;249m,[0m[38;5;249mf[0m[38;5;249mo[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249mW[0m[38;5;249me[0m[38;5;249mi[0m[38;5;249mg[0m[38;5;249mh[0m[38;5;249mt[0m[38;5;249m:[0m[38;5;249m6[0m[38;5;249m0[0m[38;5;249m0[0m[38;5;249m}[0m[38;5;249m}[0m[38;5;249m>[0m[38;5;249mS[0m[38;5;249mh[0m[38;5;249mo[0m[38;5;249mp[0m[38;5;249m [0m[38;5;249mn[0m[38;5;249mo[0m[38;5;249mw[0m[38;5;249m [0m[38;5;249m>[0m[38;5;249m<[0m[38;5;249m/[0m[38;5;249ma[0m[38;5;249m>[0m
+ [38;5;240m   │[0m                                                                                            │ 
+ [38;5;240m   │[0m                                                                                            ╰─ 
+[38;5;246m────╯[0m
+
+[31m[builtin:vite-transform] [0mUnexpected token. Did you mean `{'>'}` or `&gt;`?
+    [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/pages/SupportPage.tsx:11:72 [38;5;246m][0m
+    [38;5;246m│[0m
+ [38;5;246m11 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0m[38;5;249ma[0m[38;5;249m [0m[38;5;249mh[0m[38;5;249mr[0m[38;5;249me[0m[38;5;249mf[0m[38;5;249m=[0m[38;5;249m'[0m[38;5;249m#[0m[38;5;249m'[0m[38;5;249m [0m[38;5;249ms[0m[38;5;249mt[0m[38;5;249my[0m[38;5;249ml[0m[38;5;249me[0m[38;5;249m=[0m[38;5;249m{[0m[38;5;249m{[0m[38;5;249mc[0m[38;5;249mo[0m[38;5;249ml[0m[38;5;249mo[0m[38;5;249mr[0m[38;5;249m:[0m[38;5;249m'[0m[38;5;249m#[0m[38;5;249m3[0m[38;5;249m6[0m[38;5;249m3[0m[38;5;249m6[0m[38;5;249m3[0m[38;5;249m6[0m[38;5;249m'[0m[38;5;249m,[0m[38;5;249mf[0m[38;5;249mo[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249mS[0m[38;5;249mi[0m[38;5;249mz[0m[38;5;249me[0m[38;5;249m:[0m[38;5;249m1[0m[38;5;249m4[0m[38;5;249m}[0m[38;5;249m}[0m[38;5;249m>[0m[38;5;249mG[0m[38;5;249me[0m[38;5;249mt[0m[38;5;249m [0m[38;5;249mh[0m[38;5;249me[0m[38;5;249ml[0m[38;5;249mp[0m[38;5;249m [0m[38;5;249m>[0m[38;5;249m<[0m[38;5;249m/[0m[38;5;249ma[0m[38;5;249m>[0m
+ [38;5;240m   │[0m                                                                        │ 
+ [38;5;240m   │[0m                                                                        ╰─ 
+[38;5;246m────╯[0m
+
+[31m[builtin:vite-transform] [0mUnexpected token. Did you mean `{'>'}` or `&gt;`?
+    [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/pages/B2BPage.tsx:20:88 [38;5;246m][0m
+    [38;5;246m│[0m
+ [38;5;246m20 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0m[38;5;249ma[0m[38;5;249m [0m[38;5;249mh[0m[38;5;249mr[0m[38;5;249me[0m[38;5;249mf[0m[38;5;249m=[0m[38;5;249m'[0m[38;5;249m#[0m[38;5;249m'[0m[38;5;249m [0m[38;5;249ms[0m[38;5;249mt[0m[38;5;249my[0m[38;5;249ml[0m[38;5;249me[0m[38;5;249m=[0m[38;5;249m{[0m[38;5;249m{[0m[38;5;249mc[0m[38;5;249mo[0m[38;5;249ml[0m[38;5;249mo[0m[38;5;249mr[0m[38;5;249m:[0m[38;5;249m'[0m[38;5;249m#[0m[38;5;249m0[0m[38;5;249m0[0m[38;5;249m6[0m[38;5;249m7[0m[38;5;249mb[0m[38;5;249m8[0m[38;5;249m'[0m[38;5;249m,[0m[38;5;249mf[0m[38;5;249mo[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249mS[0m[38;5;249mi[0m[38;5;249mz[0m[38;5;249me[0m[38;5;249m:[0m[38;5;249m1[0m[38;5;249m3[0m[38;5;249m,[0m[38;5;249mf[0m[38;5;249mo[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249mW[0m[38;5;249me[0m[38;5;249mi[0m[38;5;249mg[0m[38;5;249mh[0m[38;5;249mt[0m[38;5;249m:[0m[38;5;249m6[0m[38;5;249m0[0m[38;5;249m0[0m[38;5;249m}[0m[38;5;249m}[0m[38;5;249m>[0m[38;5;249mS[0m[38;5;249me[0m[38;5;249me[0m[38;5;249m [0m[38;5;249mp[0m[38;5;249ml[0m[38;5;249ma[0m[38;5;249mn[0m[38;5;249ms[0m[38;5;249m [0m[38;5;249m>[0m[38;5;249m<[0m[38;5;249m/[0m[38;5;249ma[0m[38;5;249m>[0m
+ [38;5;240m   │[0m                                                                                        │ 
+ [38;5;240m   │[0m                                                                                        ╰─ 
+[38;5;246m────╯[0m
+[31m
+    at aggregateBindingErrorsIntoJsError (file:///C:/Users/31961/Documents/microsoft%20web/ms-replica/node_modules/rolldown/dist/shared/error-BlQ0-ek7.mjs:48:18)
+    at unwrapBindingResult (file:///C:/Users/31961/Documents/microsoft%20web/ms-replica/node_modules/rolldown/dist/shared/error-BlQ0-ek7.mjs:18:128)
+    at #build (file:///C:/Users/31961/Documents/microsoft%20web/ms-replica/node_modules/rolldown/dist/shared/rolldown-build-aV0QeeTW.mjs:3256:34)
+    at async buildEnvironment (file:///C:/Users/31961/Documents/microsoft%20web/ms-replica/node_modules/vite/dist/node/chunks/node.js:32593:66)
+    at async Object.build (file:///C:/Users/31961/Documents/microsoft%20web/ms-replica/node_modules/vite/dist/node/chunks/node.js:33015:19)
+    at async Object.buildApp (file:///C:/Users/31961/Documents/microsoft%20web/ms-replica/node_modules/vite/dist/node/chunks/node.js:33012:153)
+    at async CAC.<anonymous> (file:///C:/Users/31961/Documents/microsoft%20web/ms-replica/node_modules/vite/dist/node/cli.js:777:3) {
+  errors: [Getter/Setter]
+}[39m

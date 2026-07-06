@@ -1,0 +1,1619 @@
+{
+  "home": {
+    "counts": {
+      "section": 0,
+      "div": 89,
+      "h1": 1,
+      "h2": 27,
+      "h3": 3,
+      "h4": 0,
+      "h5": 0,
+      "h6": 0,
+      "p": 14,
+      "a": 137,
+      "img": 38,
+      "nav": 4,
+      "footer": 1,
+      "ul": 13,
+      "li": 99,
+      "button": 14,
+      "input": 3,
+      "span": 35,
+      "header": 1,
+      "main": 1
+    },
+    "tokens": {
+      "body": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontFamily": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+      },
+      "h1": {
+        "display": "block",
+        "fontSize": "48px",
+        "fontWeight": "500",
+        "lineHeight": "56px",
+        "color": "rgb(244, 250, 253)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+      },
+      "h2": {
+        "display": "block",
+        "fontSize": "62px",
+        "fontWeight": "500",
+        "lineHeight": "72px",
+        "color": "rgb(14, 23, 38)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Display\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+      },
+      "h3": {
+        "display": "block",
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "color": "rgb(14, 23, 38)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Display\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+      },
+      "p": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+      },
+      "nav": {
+        "display": "flex",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(38, 38, 38)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif",
+        "padding": "0px",
+        "margin": "0px",
+        "height": "54px",
+        "width": "778.234px"
+      },
+      "footer": {
+        "display": "block",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(97, 97, 97)",
+        "backgroundColor": "rgb(242, 242, 242)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px 72px",
+        "margin": "48px 0px 0px",
+        "height": "415px",
+        "width": "1440px"
+      },
+      "main": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif",
+        "padding": "0px",
+        "margin": "0px",
+        "height": "4790.48px",
+        "width": "1440px"
+      },
+      "header": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(38, 38, 38)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontFamily": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif",
+        "padding": "0px 72px",
+        "margin": "0px 0px 2px",
+        "height": "54px",
+        "width": "1440px"
+      }
+    },
+    "links": [
+      {
+        "text": "",
+        "href": "https://www.microsoft.com",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "color": "rgb(0, 103, 184)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "0px"
+      },
+      {
+        "text": "Microsoft 365",
+        "href": "https://www.microsoft.com/microsoft-365",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "0px 8px"
+      },
+      {
+        "text": "Azure",
+        "href": "https://azure.microsoft.com/en-us?ocid=cmm4r4ppnhp",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "0px 8px"
+      },
+      {
+        "text": "Copilot",
+        "href": "https://copilot.microsoft.com/",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "0px 8px"
+      },
+      {
+        "text": "Windows",
+        "href": "https://www.microsoft.com/en-us/windows/",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "0px 8px"
+      }
+    ],
+    "content": {
+      "headings": [
+        {
+          "text": "New from Surface for Business",
+          "level": "h1"
+        }
+      ],
+      "h2s": [
+        {
+          "text": "More from Microsoft"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "Born to flex"
+        },
+        {
+          "text": "Get the ultimate college bundle"
+        },
+        {
+          "text": "Meet the latest Surface Laptop"
+        },
+        {
+          "text": "Save up to\n        $250.00\n        \n      \n\n      \n    \n      \n\n      \n        on Surface Pro, Copil"
+        },
+        {
+          "text": "Your productivity, supercharged"
+        },
+        {
+          "text": "XBOX Series X"
+        },
+        {
+          "text": "Made for Surface"
+        },
+        {
+          "text": ""
+        }
+      ],
+      "navLinks": [
+        {
+          "text": "Microsoft 365",
+          "href": "https://www.microsoft.com/microsoft-365"
+        },
+        {
+          "text": "Azure",
+          "href": "https://azure.microsoft.com/en-us?ocid=cmm4r4ppnhp"
+        },
+        {
+          "text": "Copilot",
+          "href": "https://copilot.microsoft.com/"
+        },
+        {
+          "text": "Windows",
+          "href": "https://www.microsoft.com/en-us/windows/"
+        },
+        {
+          "text": "Surface",
+          "href": "https://www.microsoft.com/surface"
+        },
+        {
+          "text": "XBOX",
+          "href": "https://www.xbox.com/"
+        },
+        {
+          "text": "Deals",
+          "href": "https://www.microsoft.com/en-us/store/b/sale?icid=DSM_TopNavDeals"
+        },
+        {
+          "text": "Small Business",
+          "href": "https://www.microsoft.com/en-us/store/b/business"
+        },
+        {
+          "text": "Support",
+          "href": "https://support.microsoft.com/en-us"
+        }
+      ],
+      "footerLinks": [
+        {
+          "text": "Surface Pro",
+          "href": "https://www.microsoft.com/surface/devices/surface-pro"
+        },
+        {
+          "text": "Surface Laptop",
+          "href": "https://www.microsoft.com/surface/devices/surface-laptop"
+        },
+        {
+          "text": "Surface Laptop Ultra",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra?icid=DSM_Footer_WhatsNew_Surfac"
+        },
+        {
+          "text": "Surface RTX Spark Dev Box",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-rtx-spark-dev-box?icid=DSM_Footer_WhatsNew_S"
+        },
+        {
+          "text": "Copilot for organizations",
+          "href": "https://www.microsoft.com/en-us/microsoft-copilot/organizations?icid=DSM_Footer_CopilotOrganizations"
+        },
+        {
+          "text": "Copilot for personal use",
+          "href": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals?form=MY02PT&OCID=GE_web_Copilot_Fr"
+        },
+        {
+          "text": "Explore Microsoft products",
+          "href": "https://www.microsoft.com/en-us/microsoft-products-and-apps"
+        },
+        {
+          "text": "Windows 11 apps",
+          "href": "https://www.microsoft.com/en-us/windows/apps-for-windows?icid=DSM_Footer_WhatsNew_Windows11apps"
+        },
+        {
+          "text": "Account profile",
+          "href": "https://account.microsoft.com/"
+        },
+        {
+          "text": "Download Center",
+          "href": "https://www.microsoft.com/en-us/download"
+        },
+        {
+          "text": "Microsoft Store support",
+          "href": "https://go.microsoft.com/fwlink/?linkid=2139749"
+        },
+        {
+          "text": "Returns",
+          "href": "https://www.microsoft.com/en-us/store/b/returns"
+        },
+        {
+          "text": "Order tracking",
+          "href": "https://www.microsoft.com/en-us/store/b/order-tracking"
+        },
+        {
+          "text": "Certified Refurbished",
+          "href": "https://www.microsoft.com/en-us/store/b/certified-refurbished-products"
+        },
+        {
+          "text": "Microsoft Store Promise",
+          "href": "https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020"
+        },
+        {
+          "text": "Flexible Payments",
+          "href": "https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc"
+        },
+        {
+          "text": "Microsoft in education",
+          "href": "https://www.microsoft.com/en-us/education"
+        },
+        {
+          "text": "Devices for education",
+          "href": "https://www.microsoft.com/en-us/education/devices/overview"
+        },
+        {
+          "text": "Microsoft Teams for Education",
+          "href": "https://www.microsoft.com/en-us/education/products/teams"
+        },
+        {
+          "text": "Microsoft 365 Education",
+          "href": "https://www.microsoft.com/en-us/education/products/microsoft-365"
+        }
+      ]
+    },
+    "name": "home",
+    "url": "https://www.microsoft.com/en-us/"
+  },
+  "store": {
+    "counts": {
+      "section": 0,
+      "div": 34,
+      "h1": 0,
+      "h2": 1,
+      "h3": 0,
+      "h4": 0,
+      "h5": 0,
+      "h6": 0,
+      "p": 6,
+      "a": 73,
+      "img": 1,
+      "nav": 4,
+      "footer": 1,
+      "ul": 10,
+      "li": 69,
+      "button": 7,
+      "input": 1,
+      "span": 10,
+      "header": 1,
+      "main": 1
+    },
+    "tokens": {
+      "body": {
+        "display": "block",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+      },
+      "h2": {
+        "display": "block",
+        "fontSize": "34px",
+        "fontWeight": "100",
+        "lineHeight": "40px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+      },
+      "p": {
+        "display": "block",
+        "fontSize": "20px",
+        "fontWeight": "200",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+      },
+      "nav": {
+        "display": "block",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px 1px 0px 2px",
+        "margin": "0px",
+        "height": "54px",
+        "width": "956.172px"
+      },
+      "footer": {
+        "display": "block",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(242, 242, 242)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px",
+        "margin": "48px 0px 0px",
+        "height": "388px",
+        "width": "1440px"
+      },
+      "main": {
+        "display": "block",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px 72px",
+        "margin": "0px",
+        "height": "402px",
+        "width": "1440px"
+      },
+      "header": {
+        "display": "block",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px",
+        "margin": "0px",
+        "height": "54px",
+        "width": "1440px"
+      }
+    },
+    "links": [
+      {
+        "text": "Microsoft",
+        "href": "https://www.microsoft.com/",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 6px 16px 10px"
+      },
+      {
+        "text": "Microsoft 365",
+        "href": "https://www.microsoft.com/microsoft-365",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 8px 10px"
+      },
+      {
+        "text": "Teams",
+        "href": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 8px 10px"
+      },
+      {
+        "text": "Copilot",
+        "href": "https://copilot.microsoft.com/",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 8px 10px"
+      },
+      {
+        "text": "Windows",
+        "href": "https://www.microsoft.com/en-us/windows/",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 8px 10px"
+      }
+    ],
+    "content": {
+      "headings": [],
+      "h2s": [
+        {
+          "text": "We are sorry, the page you requested cannot be found."
+        }
+      ],
+      "navLinks": [
+        {
+          "text": "Microsoft 365",
+          "href": "https://www.microsoft.com/microsoft-365"
+        },
+        {
+          "text": "Teams",
+          "href": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software"
+        },
+        {
+          "text": "Copilot",
+          "href": "https://copilot.microsoft.com/"
+        },
+        {
+          "text": "Windows",
+          "href": "https://www.microsoft.com/en-us/windows/"
+        },
+        {
+          "text": "Surface",
+          "href": "https://www.microsoft.com/surface"
+        },
+        {
+          "text": "Xbox",
+          "href": "https://www.xbox.com/"
+        },
+        {
+          "text": "Deals",
+          "href": "https://www.microsoft.com/en-us/store/b/sale?icid=gm_nav_L0_salepage"
+        },
+        {
+          "text": "Small Business",
+          "href": "https://www.microsoft.com/en-us/store/b/business"
+        },
+        {
+          "text": "Support",
+          "href": "https://support.microsoft.com/en-us"
+        }
+      ],
+      "footerLinks": [
+        {
+          "text": "Surface\n                                                    Pro",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-pro-11th-edition"
+        },
+        {
+          "text": "Surface\n                                                    Laptop",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-laptop-7th-edition"
+        },
+        {
+          "text": "Surface\n                                                    Laptop Studio 2",
+          "href": "https://www.microsoft.com/en-us/d/Surface-Laptop-Studio-2/8rqr54krf1dz"
+        },
+        {
+          "text": "Surface\n                                                    Laptop Go 3",
+          "href": "https://www.microsoft.com/en-us/d/Surface-Laptop-Go-3/8p0wwgj6c6l2"
+        },
+        {
+          "text": "Microsoft\n                                                    Copilot",
+          "href": "https://www.microsoft.com/en-us/microsoft-copilot"
+        },
+        {
+          "text": "AI\n                                                    in Windows",
+          "href": "https://www.microsoft.com/en-us/windows/copilot-ai-features"
+        },
+        {
+          "text": "Explore\n                                                    Microsoft products",
+          "href": "https://www.microsoft.com/en-us/microsoft-products-and-apps"
+        },
+        {
+          "text": "Windows\n                                                    11 apps",
+          "href": "https://www.microsoft.com/windows/windows-11-apps"
+        },
+        {
+          "text": "Account\n                                                    profile",
+          "href": "https://account.microsoft.com/"
+        },
+        {
+          "text": "Download\n                                                    Center",
+          "href": "https://www.microsoft.com/en-us/download"
+        },
+        {
+          "text": "Microsoft\n                                                    Store support",
+          "href": "https://go.microsoft.com/fwlink/?linkid=2139749"
+        },
+        {
+          "text": "Returns",
+          "href": "https://www.microsoft.com/en-us/store/b/returns"
+        },
+        {
+          "text": "Order\n                                                    tracking",
+          "href": "https://account.microsoft.com/orders"
+        },
+        {
+          "text": "Certified\n                                                    Refurbished",
+          "href": "https://www.microsoft.com/en-us/store/b/certified-refurbished-products"
+        },
+        {
+          "text": "Microsoft\n                                                    Store Promise",
+          "href": "https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020"
+        },
+        {
+          "text": "Flexible\n                                                    Payments",
+          "href": "https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc"
+        },
+        {
+          "text": "Microsoft\n                                                    in education",
+          "href": "https://www.microsoft.com/en-us/education"
+        },
+        {
+          "text": "Devices\n                                                    for education",
+          "href": "https://www.microsoft.com/en-us/education/devices/overview"
+        },
+        {
+          "text": "Microsoft\n                                                    Teams for Educatio",
+          "href": "https://www.microsoft.com/en-us/education/products/teams"
+        },
+        {
+          "text": "Microsoft\n                                                    365 Education",
+          "href": "https://www.microsoft.com/en-us/education/buy-license/microsoft365"
+        }
+      ]
+    },
+    "name": "store",
+    "url": "https://www.microsoft.com/en-us/store/browse"
+  },
+  "surface": {
+    "counts": {
+      "section": 9,
+      "div": 362,
+      "h1": 1,
+      "h2": 25,
+      "h3": 0,
+      "h4": 0,
+      "h5": 0,
+      "h6": 0,
+      "p": 50,
+      "a": 160,
+      "img": 26,
+      "nav": 4,
+      "footer": 1,
+      "ul": 22,
+      "li": 139,
+      "button": 46,
+      "input": 1,
+      "span": 65,
+      "header": 1,
+      "main": 1
+    },
+    "tokens": {
+      "body": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "350",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontFamily": "\"Segoe Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif"
+      },
+      "h1": {
+        "display": "block",
+        "fontSize": "28px",
+        "fontWeight": "350",
+        "lineHeight": "39.2px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+      },
+      "h2": {
+        "display": "block",
+        "fontSize": "13px",
+        "fontWeight": "350",
+        "lineHeight": "19.5px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif"
+      },
+      "p": {
+        "display": "block",
+        "fontSize": "72px",
+        "fontWeight": "350",
+        "lineHeight": "72px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+      },
+      "nav": {
+        "display": "block",
+        "fontSize": "13px",
+        "fontWeight": "350",
+        "lineHeight": "19.5px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px 1px 0px 2px",
+        "margin": "0px",
+        "height": "54px",
+        "width": "713.828px"
+      },
+      "footer": {
+        "display": "block",
+        "fontSize": "15px",
+        "fontWeight": "350",
+        "lineHeight": "22.5px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(242, 242, 242)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px",
+        "margin": "0px",
+        "height": "403px",
+        "width": "1440px"
+      },
+      "main": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "350",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "padding": "0px",
+        "margin": "0px",
+        "height": "13626.7px",
+        "width": "1440px"
+      },
+      "header": {
+        "display": "block",
+        "fontSize": "15px",
+        "fontWeight": "350",
+        "lineHeight": "22.5px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px",
+        "margin": "0px",
+        "height": "54px",
+        "width": "1440px"
+      }
+    },
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "javascript:void(0)",
+        "fontSize": "16px",
+        "fontWeight": "350",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "0px"
+      },
+      {
+        "text": "Microsoft",
+        "href": "https://www.microsoft.com",
+        "fontSize": "13px",
+        "fontWeight": "350",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 6px 16px 10px"
+      },
+      {
+        "text": "Discover Surface",
+        "href": "https://www.microsoft.com/en-us/surface",
+        "fontSize": "13px",
+        "fontWeight": "350",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 6px 16px 10px"
+      },
+      {
+        "text": "Accessories",
+        "href": "https://www.microsoft.com/en-us/store/b/surface-accessories",
+        "fontSize": "13px",
+        "fontWeight": "350",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 8px 10px"
+      },
+      {
+        "text": "Shop",
+        "href": "https://www.microsoft.com/en-us/store/b/shop-all-microsoft-surface",
+        "fontSize": "13px",
+        "fontWeight": "350",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 8px 10px"
+      }
+    ],
+    "content": {
+      "headings": [
+        {
+          "text": "Meet Surface",
+          "level": "h1"
+        }
+      ],
+      "h2s": [
+        {
+          "text": "Global"
+        },
+        {
+          "text": "Effortlessly exceptional"
+        },
+        {
+          "text": "A screen you’ll savor"
+        },
+        {
+          "text": "Easy to carry. Ready for anything."
+        },
+        {
+          "text": "Colors you crave"
+        },
+        {
+          "text": "Power your visionPower your vision"
+        },
+        {
+          "text": "The ultimate Windows deviceThe ultimate Windows device"
+        },
+        {
+          "text": "Find files faster"
+        },
+        {
+          "text": "All the apps you need"
+        },
+        {
+          "text": "Create pics in a flash"
+        }
+      ],
+      "navLinks": [
+        {
+          "text": "Home",
+          "href": "https://www.microsoft.com/en-us/surface"
+        },
+        {
+          "text": "Surface Pro",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-pro"
+        },
+        {
+          "text": "Surface Laptop",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-laptop"
+        },
+        {
+          "text": "Surface Laptop Ultra",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra"
+        },
+        {
+          "text": "Surface RTX Spark Dev Box",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-rtx-spark-dev-box"
+        },
+        {
+          "text": "Do More with Surface",
+          "href": "https://www.microsoft.com/en-us/surface/do-more-with-surface"
+        },
+        {
+          "text": "Surface Help & Learning",
+          "href": "https://support.microsoft.com/en-us/surface"
+        },
+        {
+          "text": "Accessories",
+          "href": "https://www.microsoft.com/en-us/store/b/surface-accessories"
+        },
+        {
+          "text": "Shop",
+          "href": "https://www.microsoft.com/en-us/store/b/shop-all-microsoft-surface"
+        },
+        {
+          "text": "Surface for Business",
+          "href": "https://www.microsoft.com/en-us/surface/business"
+        }
+      ],
+      "footerLinks": [
+        {
+          "text": "Surface Pro",
+          "href": "https://www.microsoft.com/surface/devices/surface-pro"
+        },
+        {
+          "text": "Surface Laptop",
+          "href": "https://www.microsoft.com/surface/devices/surface-laptop"
+        },
+        {
+          "text": "Surface Laptop Ultra",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra?icid=DSM_Footer_WhatsNew_Surfac"
+        },
+        {
+          "text": "Surface RTX Spark Dev Box",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-rtx-spark-dev-box?icid=DSM_Footer_WhatsNew_S"
+        },
+        {
+          "text": "Copilot for organizations",
+          "href": "https://www.microsoft.com/en-us/microsoft-copilot/organizations?icid=DSM_Footer_CopilotOrganizations"
+        },
+        {
+          "text": "Copilot for personal use",
+          "href": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals?form=MY02PT&OCID=GE_web_Copilot_Fr"
+        },
+        {
+          "text": "Explore Microsoft products",
+          "href": "https://www.microsoft.com/en-us/microsoft-products-and-apps"
+        },
+        {
+          "text": "Windows 11 apps",
+          "href": "https://www.microsoft.com/en-us/windows/apps-for-windows?icid=DSM_Footer_WhatsNew_Windows11apps"
+        },
+        {
+          "text": "Account profile",
+          "href": "https://account.microsoft.com/"
+        },
+        {
+          "text": "Download Center",
+          "href": "https://www.microsoft.com/en-us/download"
+        },
+        {
+          "text": "Microsoft Store support",
+          "href": "https://go.microsoft.com/fwlink/?linkid=2139749"
+        },
+        {
+          "text": "Returns",
+          "href": "https://www.microsoft.com/en-us/store/b/returns"
+        },
+        {
+          "text": "Order tracking",
+          "href": "https://www.microsoft.com/en-us/store/b/order-tracking"
+        },
+        {
+          "text": "Certified Refurbished",
+          "href": "https://www.microsoft.com/en-us/store/b/certified-refurbished-products"
+        },
+        {
+          "text": "Microsoft Store Promise",
+          "href": "https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020"
+        },
+        {
+          "text": "Flexible Payments",
+          "href": "https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc"
+        },
+        {
+          "text": "Microsoft in education",
+          "href": "https://www.microsoft.com/en-us/education"
+        },
+        {
+          "text": "Devices for education",
+          "href": "https://www.microsoft.com/en-us/education/devices/overview"
+        },
+        {
+          "text": "Microsoft Teams for Education",
+          "href": "https://www.microsoft.com/en-us/education/products/teams"
+        },
+        {
+          "text": "Microsoft 365 Education",
+          "href": "https://www.microsoft.com/en-us/education/products/microsoft-365"
+        }
+      ]
+    },
+    "name": "surface",
+    "url": "https://www.microsoft.com/en-us/surface"
+  },
+  "windows": {
+    "counts": {
+      "section": 11,
+      "div": 438,
+      "h1": 1,
+      "h2": 24,
+      "h3": 0,
+      "h4": 0,
+      "h5": 0,
+      "h6": 0,
+      "p": 51,
+      "a": 159,
+      "img": 32,
+      "nav": 4,
+      "footer": 1,
+      "ul": 20,
+      "li": 132,
+      "button": 48,
+      "input": 1,
+      "span": 90,
+      "header": 1,
+      "main": 1
+    },
+    "tokens": {
+      "body": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(2, 2, 2)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+      },
+      "h1": {
+        "display": "block",
+        "fontSize": "56px",
+        "fontWeight": "600",
+        "lineHeight": "78.4px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+      },
+      "h2": {
+        "display": "block",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "lineHeight": "19.5px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+      },
+      "p": {
+        "display": "block",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+      },
+      "nav": {
+        "display": "block",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "lineHeight": "19.5px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px 1px 0px 2px",
+        "margin": "0px",
+        "height": "54px",
+        "width": "721.109px"
+      },
+      "footer": {
+        "display": "block",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "22.5px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px",
+        "margin": "0px",
+        "height": "403px",
+        "width": "1440px"
+      },
+      "main": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px",
+        "margin": "0px",
+        "height": "15714px",
+        "width": "1440px"
+      },
+      "header": {
+        "display": "block",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "22.5px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px",
+        "margin": "0px",
+        "height": "54px",
+        "width": "1440px"
+      }
+    },
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "javascript:void(0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "0px"
+      },
+      {
+        "text": "Microsoft",
+        "href": "https://www.microsoft.com",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(242, 242, 242)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 6px 16px 10px"
+      },
+      {
+        "text": "Discover Windows",
+        "href": "https://www.microsoft.com/en-us/windows",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(242, 242, 242)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 6px 16px 10px"
+      },
+      {
+        "text": "Shop PCs",
+        "href": "https://www.microsoft.com/en-us/windows/shop-pcs",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(242, 242, 242)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 8px 10px"
+      },
+      {
+        "text": "Compare",
+        "href": "https://www.microsoft.com/en-us/windows/compare-devices",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(242, 242, 242)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "16px 8px 10px"
+      }
+    ],
+    "content": {
+      "headings": [
+        {
+          "text": "It starts on Windows",
+          "level": "h1"
+        }
+      ],
+      "h2s": [
+        {
+          "text": "Global"
+        },
+        {
+          "text": "Snap to it"
+        },
+        {
+          "text": "Productivity, accelerated"
+        },
+        {
+          "text": "Ready. Set. Game on."
+        },
+        {
+          "text": "The Windows differenceThe Windows difference"
+        },
+        {
+          "text": "A wide world of PCs"
+        },
+        {
+          "text": "Faster ways to work"
+        },
+        {
+          "text": "Peace of mind, built in"
+        },
+        {
+          "text": "More games. More fun."
+        },
+        {
+          "text": "Find your app-y place"
+        }
+      ],
+      "navLinks": [
+        {
+          "text": "Home",
+          "href": "https://www.microsoft.com/en-us/windows"
+        },
+        {
+          "text": "Shop PCs",
+          "href": "https://www.microsoft.com/en-us/windows/shop-pcs"
+        },
+        {
+          "text": "Compare",
+          "href": "https://www.microsoft.com/en-us/windows/compare-devices"
+        },
+        {
+          "text": "Help and support",
+          "href": "https://www.microsoft.com/en-us/windows/help-and-support"
+        },
+        {
+          "text": "For business",
+          "href": "https://www.microsoft.com/en-us/windows/business"
+        }
+      ],
+      "footerLinks": [
+        {
+          "text": "Surface Pro",
+          "href": "https://www.microsoft.com/surface/devices/surface-pro"
+        },
+        {
+          "text": "Surface Laptop",
+          "href": "https://www.microsoft.com/surface/devices/surface-laptop"
+        },
+        {
+          "text": "Surface Laptop Ultra",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra?icid=DSM_Footer_WhatsNew_Surfac"
+        },
+        {
+          "text": "Surface RTX Spark Dev Box",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-rtx-spark-dev-box?icid=DSM_Footer_WhatsNew_S"
+        },
+        {
+          "text": "Copilot for organizations",
+          "href": "https://www.microsoft.com/en-us/microsoft-copilot/organizations?icid=DSM_Footer_CopilotOrganizations"
+        },
+        {
+          "text": "Copilot for personal use",
+          "href": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals?form=MY02PT&OCID=GE_web_Copilot_Fr"
+        },
+        {
+          "text": "Explore Microsoft products",
+          "href": "https://www.microsoft.com/en-us/microsoft-products-and-apps"
+        },
+        {
+          "text": "Windows 11 apps",
+          "href": "https://www.microsoft.com/en-us/windows/apps-for-windows?icid=DSM_Footer_WhatsNew_Windows11apps"
+        },
+        {
+          "text": "Account profile",
+          "href": "https://account.microsoft.com/"
+        },
+        {
+          "text": "Download Center",
+          "href": "https://www.microsoft.com/en-us/download"
+        },
+        {
+          "text": "Microsoft Store support",
+          "href": "https://go.microsoft.com/fwlink/?linkid=2139749"
+        },
+        {
+          "text": "Returns",
+          "href": "https://www.microsoft.com/en-us/store/b/returns"
+        },
+        {
+          "text": "Order tracking",
+          "href": "https://www.microsoft.com/en-us/store/b/order-tracking"
+        },
+        {
+          "text": "Certified Refurbished",
+          "href": "https://www.microsoft.com/en-us/store/b/certified-refurbished-products"
+        },
+        {
+          "text": "Microsoft Store Promise",
+          "href": "https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020"
+        },
+        {
+          "text": "Flexible Payments",
+          "href": "https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc"
+        },
+        {
+          "text": "Microsoft in education",
+          "href": "https://www.microsoft.com/en-us/education"
+        },
+        {
+          "text": "Devices for education",
+          "href": "https://www.microsoft.com/en-us/education/devices/overview"
+        },
+        {
+          "text": "Microsoft Teams for Education",
+          "href": "https://www.microsoft.com/en-us/education/products/teams"
+        },
+        {
+          "text": "Microsoft 365 Education",
+          "href": "https://www.microsoft.com/en-us/education/products/microsoft-365"
+        }
+      ]
+    },
+    "name": "windows",
+    "url": "https://www.microsoft.com/en-us/windows"
+  },
+  "support": {
+    "error": "timeout",
+    "name": "support"
+  },
+  "b2b": {
+    "counts": {
+      "section": 3,
+      "div": 2515,
+      "h1": 1,
+      "h2": 21,
+      "h3": 30,
+      "h4": 0,
+      "h5": 0,
+      "h6": 1,
+      "p": 89,
+      "a": 258,
+      "img": 126,
+      "nav": 4,
+      "footer": 1,
+      "ul": 32,
+      "li": 265,
+      "button": 217,
+      "input": 1,
+      "span": 233,
+      "header": 1,
+      "main": 1
+    },
+    "tokens": {
+      "body": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(23, 37, 61)",
+        "backgroundColor": "rgb(255, 253, 251)",
+        "fontFamily": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+      },
+      "h1": {
+        "display": "block",
+        "fontSize": "62px",
+        "fontWeight": "500",
+        "lineHeight": "72px",
+        "color": "rgb(14, 23, 38)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Display\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+      },
+      "h2": {
+        "display": "block",
+        "fontSize": "48px",
+        "fontWeight": "500",
+        "lineHeight": "56px",
+        "color": "rgb(14, 23, 38)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Display\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+      },
+      "h3": {
+        "display": "block",
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "color": "rgb(14, 23, 38)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Display\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+      },
+      "h6": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "color": "rgb(14, 23, 38)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+      },
+      "p": {
+        "display": "block",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "color": "rgb(14, 23, 38)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Small\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+      },
+      "nav": {
+        "display": "flex",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(38, 38, 38)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif",
+        "padding": "0px",
+        "margin": "0px",
+        "height": "54px",
+        "width": "415.25px"
+      },
+      "footer": {
+        "display": "block",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(97, 97, 97)",
+        "backgroundColor": "rgb(242, 242, 242)",
+        "fontFamily": "\"Segoe UI\", SegoeUI, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "padding": "0px 72px",
+        "margin": "48px 0px 0px",
+        "height": "415px",
+        "width": "1440px"
+      },
+      "main": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(23, 37, 61)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif",
+        "padding": "0px",
+        "margin": "0px",
+        "height": "9279.42px",
+        "width": "1440px"
+      },
+      "header": {
+        "display": "block",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(38, 38, 38)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontFamily": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif",
+        "padding": "0px 72px",
+        "margin": "0px 0px 2px",
+        "height": "54px",
+        "width": "1440px"
+      }
+    },
+    "links": [
+      {
+        "text": "",
+        "href": "https://www.microsoft.com",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "color": "rgb(0, 103, 184)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "0px"
+      },
+      {
+        "text": "Microsoft 365 for business",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "0px 6px 0px 10px"
+      },
+      {
+        "text": "Plans and pricing",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-plans-and-pricing",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "0px 8px"
+      },
+      {
+        "text": "Contact Sales",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/business/sales-support",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "padding": "4px 8px 0px"
+      },
+      {
+        "text": "Try for free",
+        "href": "https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-standard-one-month-tri",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 0, 0)",
+        "padding": "4px 8px 0px"
+      }
+    ],
+    "content": {
+      "headings": [
+        {
+          "text": "Grow your business with Microsoft 365",
+          "level": "h1"
+        }
+      ],
+      "h2s": [
+        {
+          "text": "Do more of what you love with Microsoft 365"
+        },
+        {
+          "text": "Find the Microsoft 365 plan that’s right for your team"
+        },
+        {
+          "text": "Microsoft 365 Business Standard with Copilot"
+        },
+        {
+          "text": "Microsoft 365 Business Premium with Copilot"
+        },
+        {
+          "text": "Microsoft 365 Business Standard with Copilot (no Teams)"
+        },
+        {
+          "text": "Microsoft 365 Business Premium with Copilot (no Teams)"
+        },
+        {
+          "text": "Find out which Microsoft 365 Business plan is right for you"
+        },
+        {
+          "text": "Discover features that support productivity and security—from anywhere"
+        },
+        {
+          "text": "Get seamless integration with your favorite apps"
+        },
+        {
+          "text": "Articles and insights"
+        }
+      ],
+      "navLinks": [
+        {
+          "text": "Pricing for individuals",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products"
+        },
+        {
+          "text": "For families",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm"
+        },
+        {
+          "text": "For single users",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf"
+        },
+        {
+          "text": "For premium users",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-premium/cfq7ttc11z3q"
+        },
+        {
+          "text": "For students",
+          "href": "https://www.microsoft.com/en-us/education/students"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/explore-microsoft-365-for-home"
+        },
+        {
+          "text": "Pricing for business",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-plans-and-pricing"
+        },
+        {
+          "text": "For small business",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/business"
+        },
+        {
+          "text": "For schools",
+          "href": "https://www.microsoft.com/en-us/education/products/microsoft-365"
+        },
+        {
+          "text": "For government",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/government"
+        },
+        {
+          "text": "Pricing for enterprise",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-plans-and-pricing"
+        },
+        {
+          "text": "For enterprise",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/microsoft-365-enterprise"
+        },
+        {
+          "text": "For frontline workers",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline"
+        },
+        {
+          "text": "For nonprofits",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/enterprise/nonprofit-plans-and-pricing"
+        },
+        {
+          "text": "For government",
+          "href": "https://www.microsoft.com/en-us/microsoft-365/government"
+        }
+      ],
+      "footerLinks": [
+        {
+          "text": "Surface Pro",
+          "href": "https://www.microsoft.com/surface/devices/surface-pro"
+        },
+        {
+          "text": "Surface Laptop",
+          "href": "https://www.microsoft.com/surface/devices/surface-laptop"
+        },
+        {
+          "text": "Surface Laptop Ultra",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra?icid=DSM_Footer_WhatsNew_Surfac"
+        },
+        {
+          "text": "Surface RTX Spark Dev Box",
+          "href": "https://www.microsoft.com/en-us/surface/devices/surface-rtx-spark-dev-box?icid=DSM_Footer_WhatsNew_S"
+        },
+        {
+          "text": "Copilot for organizations",
+          "href": "https://www.microsoft.com/en-us/microsoft-copilot/organizations?icid=DSM_Footer_CopilotOrganizations"
+        },
+        {
+          "text": "Copilot for personal use",
+          "href": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals?form=MY02PT&OCID=GE_web_Copilot_Fr"
+        },
+        {
+          "text": "Explore Microsoft products",
+          "href": "https://www.microsoft.com/en-us/microsoft-products-and-apps"
+        },
+        {
+          "text": "Windows 11 apps",
+          "href": "https://www.microsoft.com/en-us/windows/apps-for-windows?icid=DSM_Footer_WhatsNew_Windows11apps"
+        },
+        {
+          "text": "Account profile",
+          "href": "https://account.microsoft.com/"
+        },
+        {
+          "text": "Download Center",
+          "href": "https://www.microsoft.com/en-us/download"
+        },
+        {
+          "text": "Microsoft Store support",
+          "href": "https://go.microsoft.com/fwlink/?linkid=2139749"
+        },
+        {
+          "text": "Returns",
+          "href": "https://www.microsoft.com/en-us/store/b/returns"
+        },
+        {
+          "text": "Order tracking",
+          "href": "https://www.microsoft.com/en-us/store/b/order-tracking"
+        },
+        {
+          "text": "Certified Refurbished",
+          "href": "https://www.microsoft.com/en-us/store/b/certified-refurbished-products"
+        },
+        {
+          "text": "Microsoft Store Promise",
+          "href": "https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020"
+        },
+        {
+          "text": "Flexible Payments",
+          "href": "https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc"
+        },
+        {
+          "text": "Microsoft in education",
+          "href": "https://www.microsoft.com/en-us/education"
+        },
+        {
+          "text": "Devices for education",
+          "href": "https://www.microsoft.com/en-us/education/devices/overview"
+        },
+        {
+          "text": "Microsoft Teams for Education",
+          "href": "https://www.microsoft.com/en-us/education/products/teams"
+        },
+        {
+          "text": "Microsoft 365 Education",
+          "href": "https://www.microsoft.com/en-us/education/products/microsoft-365"
+        }
+      ]
+    },
+    "name": "b2b",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/business"
+  }
+}

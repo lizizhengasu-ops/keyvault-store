@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Microsoft 365 Personal",
+    "category": "Office",
+    "price": "£54",
+    "url": "https://www.primelicense.com/en-gb/office/microsoft-365-personal-1160"
+  },
+  {
+    "name": "Office Home & Business 2024 PC/Mac",
+    "category": "Office",
+    "price": "£4",
+    "url": "https://www.primelicense.com/en-gb/office/office-home-business-2024-pc-mac-1445"
+  },
+  {
+    "name": "Office LTSC Professional Plus 2024",
+    "category": "Office",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/office/office-professional-plus-2024-ltsc-1446"
+  },
+  {
+    "name": "Microsoft Visio Pro 2024 BIND",
+    "category": "Office",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/office/microsoft-visio-professional-2024-bind-1450"
+  },
+  {
+    "name": "Microsoft Project Pro 2024 BIND",
+    "category": "Office",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/office/microsoft-project-pro-2024-bind-1449"
+  },
+  {
+    "name": "Windows 11 Home",
+    "category": "Operating Systems",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/operating-systems/windows-11-home-1155"
+  },
+  {
+    "name": "Windows 11 Professional",
+    "category": "Operating Systems",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/operating-systems/windows-11-pro-1157"
+  },
+  {
+    "name": "Windows 10 Professional",
+    "category": "Operating Systems",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/operating-systems/windows-10-pro-1149"
+  },
+  {
+    "name": "Windows 11 Enterprise",
+    "category": "Operating Systems",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/operating-systems/windows-11-enterprise-1352"
+  },
+  {
+    "name": "VMware Workstation Pro 17",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/17-vmware-workstation-pro-1375"
+  },
+  {
+    "name": "Microsoft SQL Server 2022",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/windows-sql-server-2022-standard-1204"
+  },
+  {
+    "name": "VMware VSphere 8 Essentials Kit Plus",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/vmware-vsphere-essentials-kit-plus-8-lifetime-licence-1433"
+  },
+  {
+    "name": "Windows Server Standard 2025",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/windows-server-2025-standard-16-core-1456"
+  },
+  {
+    "name": "Windows Server Datacenter 2025",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/windows-server-2025-datacenter-16-core-1455"
+  },
+  {
+    "name": "Microsoft RDS Server 2025 CAL",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/microsoft-remote-desktop-services-2025-rds-1459"
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/adobe-creative-cloud-1371"
+  },
+  {
+    "name": "Adobe Photography Plan",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/adobe-photography-plan-1376"
+  },
+  {
+    "name": "Affinity Universal License",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/affinity-v1-universal-licence-1492"
+  },
+  {
+    "name": "Nuance Power Advanced 2.1 PDF",
+    "category": "Pdf Editor",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/pdf-editor/nuance-power-advanced-pdf-1333"
+  },
+  {
+    "name": "Adobe Acrobat Pro 2020",
+    "category": "Pdf Editor",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/pdf-editor/adobe-acrobat-2020-dc-1338"
+  },
+  {
+    "name": "Ashampoo PDF Pro 4",
+    "category": "Pdf Editor",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/pdf-editor/ashampoo-pdf-pro-4-key-1465"
+  },
+  {
+    "name": "Pinnacle Studio 26 Ultimate",
+    "category": "Video Editing",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/video-editing/pinnacle-studio-26-ultimate-1230"
+  },
+  {
+    "name": "Adobe Premiere Elements 2025",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/2025-adobe-premiere-elements-1373"
+  },
+  {
+    "name": "Wondershare Filmora 13",
+    "category": "Video Editing",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/video-editing/12-wondershare-filmora-1361"
+  },
+  {
+    "name": "Kaspersky TotalSecurity",
+    "category": "Antivirus",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/antivirus/kaspersky-total-security-1242"
+  },
+  {
+    "name": "Mcafee TotalProtection",
+    "category": "Antivirus",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/antivirus/mcafee-total-protection-1223"
+  },
+  {
+    "name": "Symantec Norton 360",
+    "category": "Antivirus",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/antivirus/360-symantec-norton-1234"
+  },
+  {
+    "name": "Surfshark VPN",
+    "category": "Vpn",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/vpn/surfshark-vpn-1354"
+  },
+  {
+    "name": "Kaspersky VPN SecureConnection",
+    "category": "Vpn",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/vpn/kaspersky-vpn-secure-connection-1216"
+  },
+  {
+    "name": "HMA! Pro VPN",
+    "category": "Vpn",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/vpn/hma-vpn-1214"
+  },
+  {
+    "name": "CCleaner Professional",
+    "category": "Utility",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/utility/ccleaner-professional-windows-1345"
+  },
+  {
+    "name": "NordPass Manager",
+    "category": "Utility",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/utility/nordpass-manager-1408"
+  },
+  {
+    "name": "Office 2021 Pro Plus",
+    "category": "Office",
+    "price": "£100",
+    "url": "https://www.primelicense.com/en-gb/office/2021-microsoft-office-professional-plus-1255"
+  },
+  {
+    "name": "Office Standard 2024 Mac",
+    "category": "Office",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/office/office-standard-2024-mac-1522"
+  },
+  {
+    "name": "Office Home & Business 2021 - Key for Mac",
+    "category": "Office",
+    "price": "£70",
+    "url": "https://www.primelicense.com/en-gb/office/office-home-business-2021-key-for-mac-1163"
+  },
+  {
+    "name": "Office 2019 Professional Plus",
+    "category": "Office",
+    "price": "£67",
+    "url": "https://www.primelicense.com/en-gb/office/office-2019-professional-plus-lifetime-license-144"
+  },
+  {
+    "name": "Office Professional Plus 2016 - Lifetime License",
+    "category": "Office",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/office/office-professional-plus-2016-lifetime-licence-1331"
+  },
+  {
+    "name": "Parallels Desktop 20 Edition",
+    "category": "Operating Systems",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/operating-systems/parallels-desktop-20-edition-1169"
+  },
+  {
+    "name": "Adobe Acrobat Pro 2020",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/adobe-acrobat-2020-dc-1338"
+  },
+  {
+    "name": "Adobe Acrobat Pro 2019",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/adobe-acrobat-2019-pro-1411"
+  },
+  {
+    "name": "Adobe Acrobat + Office Professional Plus 2021",
+    "category": "Bundles",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/bundles/adobe-acrobat-office-2021-professional-plus-1420"
+  },
+  {
+    "name": "Nitro 10 - PDF Editor",
+    "category": "Pdf Editor",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/pdf-editor/nitro-10-pdf-editor-1520"
+  },
+  {
+    "name": "Adobe Photography Plan - 1TB Cloud",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/adobe-photography-plan-1TB-1376"
+  },
+  {
+    "name": "Adobe Photoshop Elements 2026",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/adobe-photoshop-2026-elements-1372"
+  },
+  {
+    "name": "Adobe Creative Cloud All Apps - Educational",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/adobe-creative-cloud-all-apps-educational-1437"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/adobe-photoshop-1395"
+  },
+  {
+    "name": "CorelDraw Standard Suite 2021 Professional",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/coreldraw-standard-suite-2021-professional-1191"
+  },
+  {
+    "name": "Adobe Premiere Elements 2026",
+    "category": "Multimedia",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/multimedia/adobe-premiere-2026-elements-1373"
+  },
+  {
+    "name": "Movavi Video Editor",
+    "category": "Video Editing",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/video-editing/movavi-video-editor-1586"
+  },
+  {
+    "name": "Movavi 2026 Video Suite",
+    "category": "Video Editing",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/video-editing/movavi-2026-video-suite-1595"
+  },
+  {
+    "name": "Nord VPN",
+    "category": "Vpn",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/vpn/nordvpn-nvpnnew-1441"
+  },
+  {
+    "name": "AVG Secure VPN",
+    "category": "Vpn",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/vpn/avg-secure-vpn-1197"
+  },
+  {
+    "name": "CyberGhost VPN",
+    "category": "Vpn",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/vpn/cyberghost-vpn-1468"
+  },
+  {
+    "name": "Kaspersky Anti-Virus",
+    "category": "Antivirus",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/antivirus/kaspersky-anti-virus-1238"
+  },
+  {
+    "name": "BitDefender Total Security",
+    "category": "Antivirus",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/antivirus/bitdefender-total-security-1209"
+  },
+  {
+    "name": "Kaspersky Premium",
+    "category": "Antivirus",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/antivirus/kaspersky-premium-1248"
+  },
+  {
+    "name": "Kaspersky Plus",
+    "category": "Antivirus",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/antivirus/kaspersky-plus-1247"
+  },
+  {
+    "name": "Kaspersky Internet Security",
+    "category": "Antivirus",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/antivirus/kaspersky-internet-security-1241"
+  },
+  {
+    "name": "ESET NOD32 Antivirus",
+    "category": "Antivirus",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/antivirus/eset-nod32-antivirus-1235"
+  },
+  {
+    "name": "Windows Server 2022 Standard (16-Core)",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/windows-server-2022-standard-16-core-1202"
+  },
+  {
+    "name": "Windows Server 2022 Datacenter (16-Core)",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/windows-server-2022-datacenter-16-core-1200"
+  },
+  {
+    "name": "Windows Server 2019 Standard (16-Core)",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/windows-server-2019-standard-16-core-1198"
+  },
+  {
+    "name": "Microsoft Remote Desktop Services (RDS) 2022",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/2022-microsoft-remote-desktop-services-rds-1208"
+  },
+  {
+    "name": "VMware Workstation Pro 17",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/vmware-workstation-pro-1375"
+  },
+  {
+    "name": "VMware Vsphere Essentials Kit Plus 7 - Lifetime Licence",
+    "category": "Server",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/server/vmware-vsphere-essentials-kit-plus-7-lifetime-licence-1434"
+  },
+  {
+    "name": "AOMEI Backupper Professional",
+    "category": "Security",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/security/aomei-backupper-professional-1461"
+  },
+  {
+    "name": "EaseUS Data Recovery Wizard 18 Pro",
+    "category": "Security",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/security/easeus-data-recovery-wizard-18-pro-1463"
+  },
+  {
+    "name": "EaseUS Partition Master 18.0 Professional",
+    "category": "Security",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/security/easeus-partition-master-180-professional-1462"
+  },
+  {
+    "name": "NordPass Premium Password Manager",
+    "category": "Utility",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/utility/nordpass-premium-password-manager-1408"
+  },
+  {
+    "name": "Ashampoo WinOptimizer 25",
+    "category": "Utility",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/utility/ashampoo-25-winoptimizer-1342"
+  },
+  {
+    "name": "Avast Cleanup Premium",
+    "category": "Utility",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/utility/avast-cleanup-premium-1359"
+  },
+  {
+    "name": "here",
+    "category": "Content",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/content/authentic-software-18"
+  },
+  {
+    "name": "returns and refunds policy.",
+    "category": "Content",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/content/returns-and-refunds-2"
+  },
+  {
+    "name": "Delivery and payments",
+    "category": "Content",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/content/delivery-and-payments-5"
+  },
+  {
+    "name": "Terms of Service",
+    "category": "Content",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/content/terms-and-conditions-15"
+  },
+  {
+    "name": "FAQs",
+    "category": "Content",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/content/faq-6"
+  },
+  {
+    "name": "Affiliate Program",
+    "category": "Content",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/content/affiliate-program-9"
+  },
+  {
+    "name": "Reseller Program",
+    "category": "Content",
+    "price": "",
+    "url": "https://www.primelicense.com/en-gb/content/reseller-program-10"
+  }
+]

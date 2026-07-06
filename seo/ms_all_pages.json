@@ -1,0 +1,598 @@
+{
+  "home": {
+    "h1": [
+      {
+        "text": "New from Surface for Business",
+        "size": "48px",
+        "weight": "500"
+      }
+    ],
+    "h2": [
+      {
+        "text": "More from Microsoft",
+        "size": "62px",
+        "weight": "500"
+      },
+      {
+        "text": "",
+        "size": "32px",
+        "weight": "600"
+      },
+      {
+        "text": "Born to flex",
+        "size": "48px",
+        "weight": "500"
+      },
+      {
+        "text": "Get the ultimate college bundle",
+        "size": "48px",
+        "weight": "500"
+      },
+      {
+        "text": "Meet the latest Surface Laptop",
+        "size": "20px",
+        "weight": "600"
+      },
+      {
+        "text": "Save up to\n        $250.00\n        \n      \n\n      \n    \n      \n\n      \n        o",
+        "size": "20px",
+        "weight": "600"
+      },
+      {
+        "text": "Your productivity, supercharged",
+        "size": "20px",
+        "weight": "600"
+      },
+      {
+        "text": "XBOX Series X",
+        "size": "20px",
+        "weight": "600"
+      },
+      {
+        "text": "Made for Surface",
+        "size": "32px",
+        "weight": "500"
+      },
+      {
+        "text": "",
+        "size": "32px",
+        "weight": "600"
+      },
+      {
+        "text": "Microsoft 365 Copilot",
+        "size": "48px",
+        "weight": "500"
+      },
+      {
+        "text": "Accelerate innovation with Microsoft AI",
+        "size": "48px",
+        "weight": "500"
+      },
+      {
+        "text": "Surface for Business with Intel",
+        "size": "20px",
+        "weight": "600"
+      },
+      {
+        "text": "Limitless innovation",
+        "size": "20px",
+        "weight": "600"
+      },
+      {
+        "text": "Windows 11 for business",
+        "size": "20px",
+        "weight": "600"
+      },
+      {
+        "text": "Get Microsoft Teams for your business",
+        "size": "20px",
+        "weight": "600"
+      },
+      {
+        "text": "Welcome to your Windows 365 Cloud PC",
+        "size": "32px",
+        "weight": "500"
+      },
+      {
+        "text": "Get to know AI and Copilot",
+        "size": "48px",
+        "weight": "500"
+      },
+      {
+        "text": "Imagine Cup 2026 and Red Bull Basement",
+        "size": "32px",
+        "weight": "500"
+      },
+      {
+        "text": "Less plastic, more planet​",
+        "size": "32px",
+        "weight": "500"
+      },
+      {
+        "text": "Follow Microsoft",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "What's new",
+        "size": "15px",
+        "weight": "600"
+      },
+      {
+        "text": "Microsoft Store",
+        "size": "15px",
+        "weight": "600"
+      },
+      {
+        "text": "Education",
+        "size": "15px",
+        "weight": "600"
+      },
+      {
+        "text": "Business",
+        "size": "15px",
+        "weight": "600"
+      },
+      {
+        "text": "Developer & IT",
+        "size": "15px",
+        "weight": "600"
+      },
+      {
+        "text": "Company",
+        "size": "15px",
+        "weight": "600"
+      }
+    ],
+    "h3": [
+      {
+        "text": "Reshaping cancer treatment",
+        "size": "20px",
+        "weight": "600"
+      },
+      {
+        "text": "A real-world guide to using AI",
+        "size": "20px",
+        "weight": "600"
+      },
+      {
+        "text": "Small efficiencies, real-world impact",
+        "size": "20px",
+        "weight": "600"
+      }
+    ],
+    "h4": [],
+    "sections": 0,
+    "links": 137,
+    "imgs": 38
+  },
+  "store": {
+    "h1": [
+      {
+        "text": "Microsoft Store Deals",
+        "size": "32px",
+        "weight": "700"
+      }
+    ],
+    "h2": [
+      {
+        "text": "Global",
+        "size": "19.5px",
+        "weight": "700"
+      },
+      {
+        "text": "",
+        "size": "32px",
+        "weight": "600"
+      },
+      {
+        "text": "Surface Pro, 13-inch (12th Edition)",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Surface Laptop, 13.8-inch (8th Edition)",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Surface Laptop, 15-inch (8th Edition)",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Surface for Business Essentials Bundles",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Surface Pro, 12-inch",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Surface Laptop, 13-inch",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Get the ultimate student bundle",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Surface Laptop, 15-inch (7th Edition)",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Surface Laptop, 13.8-inch (7th Edition)",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Surface Pro, 13-inch (11th Edition)",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Certified Refurbished Surface devices",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Students save 50% on Microsoft 365 Personal",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Explore Microsoft",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Trade in and save",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Why buy from Microsoft Store",
+        "size": "24px",
+        "weight": "700"
+      },
+      {
+        "text": "Frequently asked questions",
+        "size": "24px",
+        "weight": "700"
+      }
+    ],
+    "h3": [
+      {
+        "text": "Trade in and get cash back",
+        "size": "18.72px",
+        "weight": "700"
+      },
+      {
+        "text": "Get cash for your used console",
+        "size": "18.72px",
+        "weight": "700"
+      },
+      {
+        "text": "Free 2-3 day shipping",
+        "size": "18.72px",
+        "weight": "700"
+      },
+      {
+        "text": "Buy now, pay later. As low as 0% APR.",
+        "size": "18.72px",
+        "weight": "700"
+      },
+      {
+        "text": "Microsoft Complete",
+        "size": "18.72px",
+        "weight": "700"
+      },
+      {
+        "text": "Free 60-day returns",
+        "size": "18.72px",
+        "weight": "700"
+      }
+    ],
+    "h4": [],
+    "sections": 0,
+    "links": 168,
+    "imgs": 36
+  },
+  "surface": {
+    "h1": [
+      {
+        "text": "Meet Surface",
+        "size": "28px",
+        "weight": "350"
+      }
+    ],
+    "h2": [
+      {
+        "text": "Global",
+        "size": "13px",
+        "weight": "350"
+      },
+      {
+        "text": "Effortlessly exceptional",
+        "size": "32px",
+        "weight": "350"
+      },
+      {
+        "text": "A screen you’ll savor",
+        "size": "32px",
+        "weight": "350"
+      },
+      {
+        "text": "Easy to carry. Ready for anything.",
+        "size": "32px",
+        "weight": "350"
+      },
+      {
+        "text": "Colors you crave",
+        "size": "32px",
+        "weight": "350"
+      },
+      {
+        "text": "Power your visionPower your vision",
+        "size": "48px",
+        "weight": "350"
+      },
+      {
+        "text": "The ultimate Windows deviceThe ultimate Windows device",
+        "size": "48px",
+        "weight": "350"
+      },
+      {
+        "text": "Find files faster",
+        "size": "20px",
+        "weight": "350"
+      },
+      {
+        "text": "All the apps you need",
+        "size": "20px",
+        "weight": "350"
+      },
+      {
+        "text": "Create pics in a flash",
+        "size": "20px",
+        "weight": "350"
+      },
+      {
+        "text": "Get your game on",
+        "size": "20px",
+        "weight": "350"
+      },
+      {
+        "text": "Find your SurfaceFind your Surface",
+        "size": "48px",
+        "weight": "350"
+      },
+      {
+        "text": "Surface Pro",
+        "size": "32px",
+        "weight": "350"
+      },
+      {
+        "text": "Surface Laptop",
+        "size": "32px",
+        "weight": "350"
+      },
+      {
+        "text": "Introducing Surface Laptop Ultra",
+        "size": "32px",
+        "weight": "350"
+      },
+      {
+        "text": "Accessories",
+        "size": "32px",
+        "weight": "350"
+      },
+      {
+        "text": "Surface is made for makersSurface is made for makers",
+        "size": "48px",
+        "weight": "350"
+      },
+      {
+        "text": "Learn more about SurfaceLearn more about Surface",
+        "size": "48px",
+        "weight": "350"
+      },
+      {
+        "text": "Questions Questions",
+        "size": "32px",
+        "weight": "350"
+      },
+      {
+        "text": "What is Microsoft Surface?",
+        "size": "20px",
+        "weight": "350"
+      },
+      {
+        "text": "Is Surface good for gaming?",
+        "size": "20px",
+        "weight": "350"
+      },
+      {
+        "text": "Which Microsoft Surface should I buy?",
+        "size": "20px",
+        "weight": "350"
+      },
+      {
+        "text": "Does Microsoft Surface come with Microsoft 365 (previously Microsoft Office)?",
+        "size": "20px",
+        "weight": "350"
+      },
+      {
+        "text": "What is Surface RTX Spark Dev Box?",
+        "size": "20px",
+        "weight": "350"
+      },
+      {
+        "text": "What is Surface Laptop Ultra?",
+        "size": "20px",
+        "weight": "350"
+      }
+    ],
+    "h3": [],
+    "h4": [],
+    "sections": 9,
+    "links": 161,
+    "imgs": 26
+  },
+  "windows": {
+    "h1": [
+      {
+        "text": "It starts on Windows",
+        "size": "56px",
+        "weight": "600"
+      }
+    ],
+    "h2": [
+      {
+        "text": "Global",
+        "size": "13px",
+        "weight": "400"
+      },
+      {
+        "text": "Snap to it",
+        "size": "32px",
+        "weight": "400"
+      },
+      {
+        "text": "Productivity, accelerated",
+        "size": "32px",
+        "weight": "400"
+      },
+      {
+        "text": "Ready. Set. Game on.",
+        "size": "32px",
+        "weight": "400"
+      },
+      {
+        "text": "The Windows differenceThe Windows difference",
+        "size": "48px",
+        "weight": "600"
+      },
+      {
+        "text": "A wide world of PCs",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "Faster ways to work",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "Peace of mind, built in",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "More games. More fun.",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "Find your app-y place",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "Say hello to securitySay hello to security",
+        "size": "80px",
+        "weight": "400"
+      },
+      {
+        "text": "Find your perfect PCFind your perfect PC",
+        "size": "48px",
+        "weight": "600"
+      },
+      {
+        "text": "Real Windows storiesReal Windows stories",
+        "size": "48px",
+        "weight": "600"
+      },
+      {
+        "text": "Windows vs. othersWindows vs. others",
+        "size": "48px",
+        "weight": "600"
+      },
+      {
+        "text": "Looking for the perfect Windows PC?Looking for the perfect Windows PC?",
+        "size": "48px",
+        "weight": "600"
+      },
+      {
+        "text": "Discover more of WindowsDiscover more of Windows",
+        "size": "48px",
+        "weight": "600"
+      },
+      {
+        "text": "Questions about Windows 11? Start here.Questions about Windows 11? Start here.",
+        "size": "48px",
+        "weight": "600"
+      },
+      {
+        "text": "What is Microsoft Windows?",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "What is the latest Windows version?",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "What can you do with Windows 11?",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "What is Copilot on Windows 11?",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "Does Windows 11 include AI features?",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "What is local AI on Windows?",
+        "size": "16px",
+        "weight": "600"
+      },
+      {
+        "text": "How do I download Windows 11?",
+        "size": "16px",
+        "weight": "600"
+      }
+    ],
+    "h3": [],
+    "h4": [],
+    "sections": 11,
+    "links": 159,
+    "imgs": 32
+  },
+  "b2b": {
+    "h1": [],
+    "h2": [
+      {
+        "text": "We are sorry, the page you requested cannot be found.",
+        "size": "34px",
+        "weight": "100"
+      }
+    ],
+    "h3": [],
+    "h4": [],
+    "sections": 0,
+    "links": 73,
+    "imgs": 1
+  }
+}

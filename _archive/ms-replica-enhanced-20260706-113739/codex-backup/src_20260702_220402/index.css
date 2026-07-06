@@ -1,0 +1,19 @@
+:root {
+  --primary: #0078D4;
+  --text: #000000;
+  --text-secondary: #616161;
+  --bg: #FFFFFF;
+  --bg-section: #F2F2F2;
+  --font: "Segoe UI Variable Text", "Segoe UI", system-ui, sans-serif;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body, #root { background: #ffffff !important; color: #000000 !important; }
+body {
+  font-family: var(--font);
+  color: #000000;
+  background: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: #0078D4; font-weight: 400; font-size: 13px; text-decoration: none; }
+a:hover { text-decoration: underline; }
+@keyframes fadeUp { from { opacity:0; transform:translateY(20px) } to { opacity:1; transform:translateY(0) } }

@@ -1,0 +1,22 @@
+export const products = [
+  {slug:"mphone-11-pro",n:"mPhone 11 Pro",p:999,c:"#1d1d1f",d:"Triple 12MP camera system. A13 Bionic. ProMotion XDR display.",
+   specs:{chip:"A13 Bionic",display:"6.1in Super Retina XDR",camera:"Triple 12MP",battery:"Up to 20h",storage:"64/256/512GB",water:"IP68"}},
+  {slug:"mphone-x",n:"mPhone X",p:899,c:"#000",d:"All-screen OLED design. Face ID. A11 Bionic chip.",
+   specs:{chip:"A11 Bionic",display:"5.8in Super Retina OLED",camera:"Dual 12MP",battery:"Up to 18h",storage:"64/256GB",water:"IP67"}},
+  {slug:"mphone-6",n:"mPhone 6",p:699,c:"#ff9500",d:"Bigger than bigger. Retina HD display. A8 chip.",
+   specs:{chip:"A8",display:"4.7in Retina HD",camera:"8MP iSight",battery:"Up to 14h",storage:"16/64/128GB",water:"Splash resistant"}},
+  {slug:"mphone-5s",n:"mPhone 5S",p:599,c:"#ffd60a",d:"Touch ID. 64-bit A7 chip. Gold option. Slo-mo video.",
+   specs:{chip:"A7",display:"4in Retina",camera:"8MP with True Tone",battery:"Up to 10h",storage:"16/32/64GB",water:"No"}},
+  {slug:"mphone-5",n:"mPhone 5",p:499,c:"#007aff",d:"Lightning connector. 4in Retina display. A6 chip.",
+   specs:{chip:"A6",display:"4in Retina",camera:"8MP",battery:"Up to 8h",storage:"16/32GB",water:"No"}},
+  {slug:"mphone-4s",n:"mPhone 4S",p:449,c:"#2c2c2e",d:"Siri arrives. 1080p video. 8MP camera. iOS 5.",
+   specs:{chip:"A5",display:"3.5in Retina",camera:"8MP 1080p",battery:"Up to 8h",storage:"16/32/64GB",water:"No"}},
+  {slug:"mphone-4",n:"mPhone 4",p:399,c:"#1c1c1e",d:"Retina display. Front camera. Stainless steel design.",
+   specs:{chip:"A4",display:"3.5in Retina",camera:"5MP LED",battery:"Up to 7h",storage:"16/32GB",water:"No"}},
+  {slug:"mphone-3gs",n:"mPhone 3GS",p:349,c:"#48484a",d:"Video recording. Voice control. Faster 3G. Compass.",
+   specs:{chip:"A3",display:"3.5in",camera:"3MP video",battery:"Up to 6h",storage:"8/16/32GB",water:"No"}},
+  {slug:"mphone-3g",n:"mPhone 3G",p:299,c:"#636366",d:"3G network. GPS. App Store. iPhone OS 2.0.",
+   specs:{chip:"A2",display:"3.5in",camera:"2MP",battery:"Up to 5h",storage:"8/16GB",water:"No"}},
+  {slug:"mphone",n:"mPhone",p:199,c:"#8e8e93",d:"The original. Multi-touch. iPod + Phone + Internet.",
+   specs:{chip:"A1",display:"3.5in",camera:"2MP",battery:"Up to 4h",storage:"4/8GB",water:"No"}}
+];

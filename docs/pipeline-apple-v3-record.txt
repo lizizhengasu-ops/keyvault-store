@@ -1,0 +1,46 @@
+=== Project Creation ===
+OpenClaw: ok | apple-v3
+
+=== Design Analysis ===
+Hermes: ok | analysis: 42
+Design doc: 3133 bytes
+
+=== Page Generation ===
+Base page: 7321 bytes, GSAP: False
+
+=== Animation Quality Gate ===
+Gate: animations | Passed: False | Changed: True
+  + injected GSAP CDN
+  + injected ScrollTrigger
+  + injected animation code
+Animated page: 8460 bytes, GSAP: True
+
+=== Quality Checks ===
+a11y: axe-core | 6 violations
+biome: ok
+
+=== Demo saved ===
+File: C:\Users\31961\Documents\microsoft web\apple-v3-demo.html
+Size: 8544 bytes
+GSAP: True
+ScrollTrigger: True
+
+=== Cost Report ===
+Steps: 20
+Tokens used: 9340
+Tokens saved: 25000 (72%)
+  hermes3: 3200 tokens
+  codex_gen: 2440 tokens
+  codex_read: 2000 tokens
+  quality_gates: 1200 tokens
+  openclaw: 500 tokens
+  Research: 0 tokens
+  HumanReview: 0 tokens
+  Codex: 0 tokens
+  Hermes: 0 tokens
+  UxEngine: 0 tokens
+  QualityGates: 0 tokens
+  AssetGen: 0 tokens
+  headroom: 0 tokens
+
+=== Pipeline Complete ===

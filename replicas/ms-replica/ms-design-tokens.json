@@ -1,0 +1,40 @@
+{
+  "body": {
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "font": "\"Segoe UI Variable Text\", \"Segoe UI\", segoeui, \"Helvetica Neue\", helvetica, arial, sans-serif"
+  },
+  "h1": {
+    "size": "48px",
+    "weight": "500",
+    "lineH": "56px",
+    "color": "rgb(244, 250, 253)",
+    "spacing": "-1.2px"
+  },
+  "h2": {
+    "size": "62px",
+    "weight": "500",
+    "lineH": "72px",
+    "color": "rgb(14, 23, 38)",
+    "spacing": "-1.55px"
+  },
+  "h3": {
+    "size": "20px",
+    "weight": "600",
+    "lineH": "28px",
+    "color": "rgb(14, 23, 38)",
+    "spacing": "-0.3px"
+  },
+  "link": {
+    "size": "14px",
+    "weight": "600",
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "radius": "0px",
+    "padding": "0px"
+  },
+  "nav": {
+    "bg": "rgba(0, 0, 0, 0)",
+    "height": "54px"
+  }
+}

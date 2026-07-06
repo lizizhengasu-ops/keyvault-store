@@ -1,0 +1,22 @@
+﻿node : [2m19:12:13[22m [33m[1m[vite][22m[39m [33mwarning: `esbuild` option was specified by "vite:react-babel" p
+lugin. This option is deprecated, please use `oxc` instead.[39m
+At line:2 char:1
++ node node_modules\vite\bin\vite.js build 2>&1 | Out-File -FilePath "C ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([2m19:12:13[2...` instead.[39m:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+`optimizeDeps.rollupOptions` / `ssr.optimizeDeps.rollupOptions` is deprecated. Use `optimizeDeps.rolldownOptions` inste
+ad. Note that this option may be set by a plugin. Set VITE_DEPRECATION_TRACE=1 to see where it is called.
+[vite:react-babel] We recommend switching to `@vitejs/plugin-react-oxc` for improved performance. More information at h
+ttps://vite.dev/rolldown
+[36mvite v8.1.2 [32mbuilding client environment for production...[36m[39m
+[2K
+transforming...✓ 31 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.59 kB │ gzip:  0.37 kB
+dist/assets/index-CByVVNtA.css    0.82 kB │ gzip:  0.39 kB
+dist/assets/index-DNnmpwKB.js   247.33 kB │ gzip: 77.45 kB
+
+[32m✓ built in 160ms[39m

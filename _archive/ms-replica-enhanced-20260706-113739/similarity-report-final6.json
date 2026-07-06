@@ -1,0 +1,170 @@
+{
+  "overall_score": 0.9219444444444445,
+  "pages": {
+    "home": {
+      "dimensions": {
+        "typography": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "color": {
+          "score": 0.9375,
+          "diffs": [
+            "a.color: ref=#0067b8 local=#262626"
+          ]
+        },
+        "spacing": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "layout": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "content": {
+          "score": 1.0,
+          "diffs": []
+        }
+      },
+      "score": 0.9875
+    },
+    "store": {
+      "dimensions": {
+        "typography": {
+          "score": 0.7222222222222222,
+          "diffs": [
+            "body.lineH: ref=normal local=24px",
+            "a.lineH: ref=normal local=19.5px",
+            "nav.lineH: ref=normal local=19.5px",
+            "footer.size: ref=15px local=11px",
+            "footer.lineH: ref=normal local=24px"
+          ]
+        },
+        "color": {
+          "score": 0.9166666666666666,
+          "diffs": [
+            "footer.color: ref=#000000 local=#616161"
+          ]
+        },
+        "spacing": {
+          "score": 0.6666666666666666,
+          "diffs": [
+            "p.pad: ref=24px 0px 4px local=0px",
+            "a.pad: ref=48px 48px 0px local=0px 16px"
+          ]
+        },
+        "layout": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "content": {
+          "score": 1.0,
+          "diffs": []
+        }
+      },
+      "score": 0.8638888888888889
+    },
+    "surface": {
+      "dimensions": {
+        "typography": {
+          "score": 0.7916666666666666,
+          "diffs": [
+            "body.weight: ref=350 local=400",
+            "a.size: ref=16px local=13px",
+            "a.lineH: ref=24px local=19.5px",
+            "footer.size: ref=15px local=11px",
+            "footer.lineH: ref=22.5px local=24px"
+          ]
+        },
+        "color": {
+          "score": 0.75,
+          "diffs": [
+            "a.color: ref=#000000 local=#262626",
+            "nav.color: ref=#000000 local=#262626",
+            "footer.color: ref=#000000 local=#616161",
+            "section.bg: ref=transparent local=#000000"
+          ]
+        },
+        "spacing": {
+          "score": 0.875,
+          "diffs": [
+            "section.pad: ref=0px local=80px 48px"
+          ]
+        },
+        "layout": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "content": {
+          "score": 1.0,
+          "diffs": []
+        }
+      },
+      "score": 0.8791666666666667
+    },
+    "windows": {
+      "dimensions": {
+        "typography": {
+          "score": 0.875,
+          "diffs": [
+            "a.size: ref=16px local=13px",
+            "a.lineH: ref=24px local=19.5px",
+            "footer.size: ref=15px local=11px"
+          ]
+        },
+        "color": {
+          "score": 0.8125,
+          "diffs": [
+            "body.color: ref=#020202 local=#000000",
+            "h2.color: ref=#ffffff local=#000000",
+            "section.bg: ref=transparent local=#000000"
+          ]
+        },
+        "spacing": {
+          "score": 0.875,
+          "diffs": [
+            "section.pad: ref=0px local=80px 48px"
+          ]
+        },
+        "layout": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "content": {
+          "score": 1.0,
+          "diffs": []
+        }
+      },
+      "score": 0.9125
+    },
+    "b2b": {
+      "dimensions": {
+        "typography": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "color": {
+          "score": 0.8333333333333334,
+          "diffs": [
+            "body.color: ref=#17253d local=#000000",
+            "body.bg: ref=#fffdfb local=#ffffff",
+            "a.color: ref=#0067b8 local=#262626"
+          ]
+        },
+        "spacing": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "layout": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "content": {
+          "score": 1.0,
+          "diffs": []
+        }
+      },
+      "score": 0.9666666666666667
+    }
+  }
+}

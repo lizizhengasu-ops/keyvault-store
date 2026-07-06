@@ -1,0 +1,52 @@
+[
+  {
+    "label": "Tool Evaluation",
+    "query": "developer tool evaluation framework OR \"technology decision matrix\" 2025 2026",
+    "results": []
+  },
+  {
+    "label": "DX Metrics",
+    "query": "developer experience evaluation criteria OR \"DevEx metrics\"",
+    "results": []
+  },
+  {
+    "label": "DORA SPACE",
+    "query": "DORA metrics OR SPACE framework developer productivity",
+    "results": []
+  },
+  {
+    "label": "NPM Cost",
+    "query": "cost of adding npm dependency OR dependency cost analysis",
+    "results": []
+  },
+  {
+    "label": "AI Tool Selection",
+    "query": "AI agent tool selection criteria OR \"LLM pipeline\" tooling",
+    "results": []
+  },
+  {
+    "label": "Token Reduction",
+    "query": "reduce token consumption AI coding pipeline",
+    "results": []
+  },
+  {
+    "label": "Web Perf 2026",
+    "query": "web performance optimization best practices 2026",
+    "results": []
+  },
+  {
+    "label": "CSS Bundle",
+    "query": "CSS bundle optimization OR \"Tailwind CSS purging\"",
+    "results": []
+  },
+  {
+    "label": "React Patterns",
+    "query": "React component composition patterns design system 2026",
+    "results": []
+  },
+  {
+    "label": "Design Tokens",
+    "query": "design token workflow OR \"design system engineering\" 2026",
+    "results": []
+  }
+]

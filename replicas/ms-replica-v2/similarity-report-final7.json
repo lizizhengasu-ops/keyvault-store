@@ -1,0 +1,174 @@
+{
+  "overall_score": 0.5716666666666667,
+  "pages": {
+    "home": {
+      "dimensions": {
+        "typography": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "color": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "spacing": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "layout": {
+          "score": 0.25,
+          "diffs": [
+            "heading count: ref=31 local=0",
+            "link count: ref=137 local=0",
+            "image count: ref=38 local=0"
+          ]
+        },
+        "content": {
+          "score": 0.0,
+          "diffs": [
+            "h1: exists ref, missing local",
+            "h2: exists ref, missing local"
+          ]
+        }
+      },
+      "score": 0.6625
+    },
+    "store": {
+      "dimensions": {
+        "typography": {
+          "score": 0.6666666666666666,
+          "diffs": [
+            "body.lineH: ref=normal local=24px"
+          ]
+        },
+        "color": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "spacing": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "layout": {
+          "score": 0.75,
+          "diffs": [
+            "link count: ref=73 local=0"
+          ]
+        },
+        "content": {
+          "score": 0.5,
+          "diffs": [
+            "h2: exists ref, missing local"
+          ]
+        }
+      },
+      "score": 0.7791666666666667
+    },
+    "surface": {
+      "dimensions": {
+        "typography": {
+          "score": 0.6666666666666666,
+          "diffs": [
+            "body.weight: ref=350 local=400"
+          ]
+        },
+        "color": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "spacing": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "layout": {
+          "score": 0.0,
+          "diffs": [
+            "section count: ref=9 local=0",
+            "heading count: ref=26 local=0",
+            "link count: ref=161 local=0",
+            "image count: ref=26 local=0"
+          ]
+        },
+        "content": {
+          "score": 0.0,
+          "diffs": [
+            "h1: exists ref, missing local",
+            "h2: exists ref, missing local"
+          ]
+        }
+      },
+      "score": 0.5166666666666666
+    },
+    "windows": {
+      "dimensions": {
+        "typography": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "color": {
+          "score": 0.5,
+          "diffs": [
+            "body.color: ref=#020202 local=#000000"
+          ]
+        },
+        "spacing": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "layout": {
+          "score": 0.0,
+          "diffs": [
+            "section count: ref=11 local=0",
+            "heading count: ref=25 local=0",
+            "link count: ref=159 local=0",
+            "image count: ref=32 local=0"
+          ]
+        },
+        "content": {
+          "score": 0.0,
+          "diffs": [
+            "h1: exists ref, missing local",
+            "h2: exists ref, missing local"
+          ]
+        }
+      },
+      "score": 0.5
+    },
+    "b2b": {
+      "dimensions": {
+        "typography": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "color": {
+          "score": 0.0,
+          "diffs": [
+            "body.color: ref=#17253d local=#000000",
+            "body.bg: ref=#fffdfb local=#ffffff"
+          ]
+        },
+        "spacing": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "layout": {
+          "score": 0.0,
+          "diffs": [
+            "section count: ref=3 local=0",
+            "heading count: ref=52 local=0",
+            "link count: ref=257 local=0",
+            "image count: ref=126 local=0"
+          ]
+        },
+        "content": {
+          "score": 0.0,
+          "diffs": [
+            "h1: exists ref, missing local",
+            "h2: exists ref, missing local"
+          ]
+        }
+      },
+      "score": 0.4
+    }
+  }
+}

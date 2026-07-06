@@ -1,0 +1,112 @@
+{
+  "home": {
+    "url": "http://127.0.0.1:8089/",
+    "data": {
+      "body": {
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgb(255, 255, 255)",
+        "size": "16px",
+        "weight": "400",
+        "lineH": "normal",
+        "font": "\"Segoe UI Variable Text\", \"Segoe UI\", system-ui, sans-serif",
+        "pad": "0px",
+        "margin": "0px"
+      },
+      "h1": {
+        "color": "rgb(244, 250, 253)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "size": "48px",
+        "weight": "500",
+        "lineH": "56px",
+        "font": "\"Segoe UI Variable Text\", \"Segoe UI\", system-ui, sans-serif",
+        "pad": "0px",
+        "margin": "0px 0px 12px"
+      },
+      "h2": {
+        "color": "rgb(14, 23, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "size": "62px",
+        "weight": "500",
+        "lineH": "72px",
+        "font": "\"Segoe UI Variable Text\", \"Segoe UI\", system-ui, sans-serif",
+        "pad": "0px",
+        "margin": "0px 0px 24px"
+      },
+      "h3": {
+        "color": "rgb(14, 23, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "size": "20px",
+        "weight": "600",
+        "lineH": "28px",
+        "font": "\"Segoe UI Variable Text\", \"Segoe UI\", system-ui, sans-serif",
+        "pad": "0px",
+        "margin": "0px 0px 4px"
+      },
+      "p": {
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "size": "16px",
+        "weight": "400",
+        "lineH": "24px",
+        "font": "\"Segoe UI Variable Text\", \"Segoe UI\", system-ui, sans-serif",
+        "pad": "0px",
+        "margin": "0px 0px 24px"
+      },
+      "a": {
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "size": "16px",
+        "weight": "400",
+        "lineH": "normal",
+        "font": "\"Segoe UI Variable Text\", \"Segoe UI\", system-ui, sans-serif",
+        "pad": "0px 16px",
+        "margin": "0px"
+      },
+      "nav": {
+        "color": "rgb(38, 38, 38)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "size": "16px",
+        "weight": "400",
+        "lineH": "normal",
+        "font": "\"Segoe UI Variable Text\", \"Segoe UI\", system-ui, sans-serif",
+        "pad": "0px 48px",
+        "margin": "0px"
+      },
+      "footer": {
+        "color": "rgb(97, 97, 97)",
+        "bg": "rgb(242, 242, 242)",
+        "size": "11px",
+        "weight": "400",
+        "lineH": "24px",
+        "font": "\"Segoe UI Variable Text\", \"Segoe UI\", system-ui, sans-serif",
+        "pad": "0px",
+        "margin": "0px"
+      },
+      "_sections": 0,
+      "_headings": 27,
+      "_h1count": 1,
+      "_h2count": 7,
+      "_h3count": 19,
+      "_links": 92,
+      "_images": 22,
+      "_buttons": 0,
+      "_h1text": "New from Surface for Business",
+      "_h2texts": [
+        "More from Microsoft",
+        "Your productivity, supercharged",
+        "XBOX Series X",
+        "Meet the latest Surface Laptop",
+        "Born to flex",
+        "Microsoft 365 Copilot",
+        "Get to know AI and Copilot"
+      ],
+      "_ptexts": [
+        "Back to school is here \u2014 students save 10% on select Surface and more.",
+        "Copilot+ PC. The most powerful Pro.",
+        "Copilot+ PC. Ultra-thin, ultra-light.",
+        "The fastest, most powerful Xbox ever.",
+        "Premium apps, extra cloud storage, advanced security."
+      ]
+    }
+  }
+}

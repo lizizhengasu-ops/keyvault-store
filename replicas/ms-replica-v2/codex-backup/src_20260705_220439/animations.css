@@ -1,0 +1,52 @@
+/* Page load animations */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-30px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+@keyframes scaleIn {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.anim-fade-up { animation: fadeInUp 0.6s ease-out forwards; }
+.anim-fade { animation: fadeIn 0.5s ease-out forwards; }
+.anim-slide-left { animation: slideInLeft 0.5s ease-out forwards; }
+.anim-scale { animation: scaleIn 0.4s ease-out forwards; }
+
+.anim-stagger > * { opacity: 0; animation: fadeInUp 0.5s ease-out forwards; }
+.anim-stagger > *:nth-child(1) { animation-delay: 0.05s; }
+.anim-stagger > *:nth-child(2) { animation-delay: 0.1s; }
+.anim-stagger > *:nth-child(3) { animation-delay: 0.15s; }
+.anim-stagger > *:nth-child(4) { animation-delay: 0.2s; }
+.anim-stagger > *:nth-child(5) { animation-delay: 0.25s; }
+.anim-stagger > *:nth-child(6) { animation-delay: 0.3s; }
+.anim-stagger > *:nth-child(7) { animation-delay: 0.35s; }
+.anim-stagger > *:nth-child(8) { animation-delay: 0.4s; }
+.anim-stagger > *:nth-child(9) { animation-delay: 0.45s; }
+.anim-stagger > *:nth-child(10) { animation-delay: 0.5s; }
+.anim-stagger > *:nth-child(11) { animation-delay: 0.55s; }
+.anim-stagger > *:nth-child(12) { animation-delay: 0.6s; }
+
+/* Hover effects */
+.hover-lift { transition: transform 0.2s ease, box-shadow 0.2s ease; }
+.hover-lift:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
+
+/* Button click feedback */
+.btn-press { transition: transform 0.1s ease; }
+.btn-press:active { transform: scale(0.95); }
+
+/* Cart badge */
+.cart-badge {
+  display: inline-flex; align-items: center; justify-content: center;
+  background: #0078D4; color: #fff; border-radius: 10px;
+  min-width: 18px; height: 18px; font-size: 10px; font-weight: 700;
+  margin-left: 4px; padding: 0 4px;
+}

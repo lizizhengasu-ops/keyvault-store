@@ -1,0 +1,70 @@
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
+import HomePage from "./pages/Home"
+import StorePage from "./pages/StorePage"
+import SurfacePage from "./pages/SurfacePage"
+import WindowsPage from "./pages/WindowsPage"
+import SupportPage from "./pages/SupportPage"
+import B2BPage from "./pages/B2BPage"
+
+const NAV_ITEMS = [
+  {label:"Microsoft 365",to:"/"},{label:"Teams",to:"/"},{label:"Copilot",to:"/"},{label:"Windows",to:"/product/windows"},
+  {label:"Surface",to:"/product/surface"},{label:"Xbox",to:"/store"},{label:"Deals",to:"/store"},
+  {label:"Small Business",to:"/b2b"},{label:"Support",to:"/support"},{label:"More",to:"#"},
+  {label:"All Microsoft",to:"#"},
+]
+
+const FOOTER_SECTIONS = [
+  {title:"What is new",links:["Surface Pro","Surface Laptop","Surface Laptop Ultra","Copilot","Windows 11","Microsoft 365"]},
+  {title:"Microsoft Store",links:["Account Profile","Download Center","Microsoft Store Support","Returns","Order tracking","Store locations","Gift cards","Student discounts"]},
+  {title:"Education",links:["Microsoft in Education","Devices for Education","Microsoft Teams for Education","Microsoft 365 Education","Office Education","Educator training","Deals for students"]},
+  {title:"Business",links:["Microsoft Cloud","Azure","Dynamics 365","Microsoft 365","Microsoft Power Platform","Microsoft Advertising","Copilot for Business"]},
+  {title:"Developer & IT",links:["Visual Studio",".NET","Windows Server","Azure DevOps","Microsoft 365 Dev Center","Learn","Documentation"]},
+  {title:"Company",links:["Careers","About Microsoft","Company News","Privacy at Microsoft","Investors","Diversity and inclusion","Sustainability"]},
+]
+
+export default function App() {
+  return (
+    <BrowserRouter>
+      <div style={{fontFamily:'"Segoe UI Variable Text","Segoe UI",system-ui,sans-serif',color:"#000",background:"#fff",minHeight:"100vh"}}>
+        <nav style={{height:54,background:"transparent",display:"flex",alignItems:"center",padding:"0 48px",position:"fixed",top:0,left:0,right:0,zIndex:100,fontSize:16,fontWeight:400,lineHeight:"normal",color:"#000"}}>
+          <svg width="108" height="23" viewBox="0 0 108 23" fill="none"><rect x="0" y="0" width="23" height="23" fill="#F25022"/><rect x="28" y="0" width="23" height="23" fill="#7FBA00"/><rect x="56" y="0" width="23" height="23" fill="#00A4EF"/><rect x="84" y="0" width="23" height="23" fill="#FFB900"/></svg>
+          <div style={{display:"flex",marginLeft:24,gap:0}}>
+            {NAV_ITEMS.map((n,i)=>(
+              <Link key={i} to={n.to} style={{color:"#000",textDecoration:"none",fontSize:16,fontWeight:400,lineHeight:"normal",padding:"0 16px"}}>{n.label}</Link>
+            ))}
+          </div>
+        </nav>
+        <main style={{paddingTop:54}}>
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/store" element={<StorePage />} />
+            <Route path="/product/surface" element={<SurfacePage />} />
+            <Route path="/product/windows" element={<WindowsPage />} />
+            <Route path="/support" element={<SupportPage />} />
+            <Route path="/b2b" element={<B2BPage />} />
+          </Routes>
+        </main>
+        <footer style={{background:"#F2F2F2",color:"#616161",fontSize:15,lineHeight:"22.5px"}}>
+          <div style={{maxWidth:1200,margin:"0 auto",padding:"36px 72px 0",display:"grid",gridTemplateColumns:"repeat(6,1fr)",gap:24}}>
+            {FOOTER_SECTIONS.map((s,i)=>(
+              <div key={i}>
+                <h2 style={{fontSize:15,fontWeight:600,color:"#616161",margin:"0 0 4px 0",lineHeight:"20px"}}>{s.title}</h2>
+                {s.links.map((l,j)=>(<a key={j} href="#" style={{display:"block",fontSize:11,color:"#616161",lineHeight:"20px",textDecoration:"none"}}>{l}</a>))}
+              </div>
+            ))}
+          </div>
+          <div style={{maxWidth:1200,margin:"0 auto",padding:"16px 72px",borderTop:"1px solid #e6e6e6",display:"flex",justifyContent:"space-between",fontSize:11,lineHeight:"20px"}}>
+            <span>English (United States)</span>
+            <div style={{display:"flex",gap:16,fontSize:11,lineHeight:"20px",color:"#616161"}}>
+              <a href="#" style={{fontSize:11,color:"#616161",lineHeight:"20px",textDecoration:"none"}}>Your Privacy Choices</a>
+              <a href="#" style={{fontSize:11,color:"#616161",lineHeight:"20px",textDecoration:"none"}}>Consumer Health Privacy</a>
+              <a href="#" style={{fontSize:11,color:"#616161",lineHeight:"20px",textDecoration:"none"}}>Sitemap</a>
+              <a href="#" style={{fontSize:11,color:"#616161",lineHeight:"20px",textDecoration:"none"}}>Contact Microsoft</a>
+              <span>&copy; Microsoft 2026</span>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </BrowserRouter>
+  )
+}

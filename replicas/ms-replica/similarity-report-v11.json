@@ -1,0 +1,198 @@
+{
+  "overall_score": 0.8452777777777778,
+  "pages": {
+    "home": {
+      "dimensions": {
+        "typography": {
+          "score": 0.75,
+          "diffs": [
+            "body.weight: ref=400 local=350",
+            "body.lineH: ref=24px local=normal",
+            "p.size: ref=16px local=20px",
+            "footer.size: ref=11px local=15px",
+            "footer.weight: ref=400 local=350",
+            "footer.lineH: ref=24px local=22.5px"
+          ]
+        },
+        "color": {
+          "score": 0.875,
+          "diffs": [
+            "body.color: ref=#000000 local=#020202",
+            "a.color: ref=#0067b8 local=#262626"
+          ]
+        },
+        "spacing": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "layout": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "content": {
+          "score": 1.0,
+          "diffs": []
+        }
+      },
+      "score": 0.9125
+    },
+    "store": {
+      "dimensions": {
+        "typography": {
+          "score": 0.7777777777777778,
+          "diffs": [
+            "body.weight: ref=400 local=350",
+            "nav.size: ref=13px local=16px",
+            "footer.weight: ref=400 local=350",
+            "footer.lineH: ref=normal local=22.5px"
+          ]
+        },
+        "color": {
+          "score": 0.6666666666666666,
+          "diffs": [
+            "body.color: ref=#000000 local=#020202",
+            "a.color: ref=#000000 local=#262626",
+            "nav.color: ref=#000000 local=#262626",
+            "footer.color: ref=#000000 local=#616161"
+          ]
+        },
+        "spacing": {
+          "score": 0.6666666666666666,
+          "diffs": [
+            "p.pad: ref=24px 0px 4px local=0px",
+            "a.pad: ref=48px 48px 0px local=0px 16px"
+          ]
+        },
+        "layout": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "content": {
+          "score": 1.0,
+          "diffs": []
+        }
+      },
+      "score": 0.8277777777777777
+    },
+    "surface": {
+      "dimensions": {
+        "typography": {
+          "score": 0.75,
+          "diffs": [
+            "body.lineH: ref=24px local=normal",
+            "a.weight: ref=350 local=400",
+            "a.lineH: ref=24px local=normal",
+            "nav.size: ref=13px local=16px",
+            "nav.weight: ref=350 local=400",
+            "nav.lineH: ref=19.5px local=normal"
+          ]
+        },
+        "color": {
+          "score": 0.6875,
+          "diffs": [
+            "body.color: ref=#000000 local=#020202",
+            "a.color: ref=#000000 local=#262626",
+            "nav.color: ref=#000000 local=#262626",
+            "footer.color: ref=#000000 local=#616161",
+            "section.bg: ref=transparent local=#000000"
+          ]
+        },
+        "spacing": {
+          "score": 0.875,
+          "diffs": [
+            "section.pad: ref=0px local=80px 48px"
+          ]
+        },
+        "layout": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "content": {
+          "score": 1.0,
+          "diffs": []
+        }
+      },
+      "score": 0.85625
+    },
+    "windows": {
+      "dimensions": {
+        "typography": {
+          "score": 0.75,
+          "diffs": [
+            "body.weight: ref=400 local=350",
+            "body.lineH: ref=24px local=normal",
+            "a.lineH: ref=24px local=normal",
+            "nav.size: ref=13px local=16px",
+            "nav.lineH: ref=19.5px local=normal",
+            "footer.weight: ref=400 local=350"
+          ]
+        },
+        "color": {
+          "score": 0.625,
+          "diffs": [
+            "h2.color: ref=#ffffff local=#000000",
+            "a.color: ref=#ffffff local=#262626",
+            "nav.color: ref=#ffffff local=#262626",
+            "footer.color: ref=#ffffff local=#616161",
+            "footer.bg: ref=#000000 local=#f2f2f2",
+            "section.bg: ref=transparent local=#000000"
+          ]
+        },
+        "spacing": {
+          "score": 0.875,
+          "diffs": [
+            "section.pad: ref=0px local=80px 48px"
+          ]
+        },
+        "layout": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "content": {
+          "score": 1.0,
+          "diffs": []
+        }
+      },
+      "score": 0.84375
+    },
+    "b2b": {
+      "dimensions": {
+        "typography": {
+          "score": 0.7777777777777778,
+          "diffs": [
+            "body.weight: ref=400 local=350",
+            "body.lineH: ref=24px local=normal",
+            "footer.size: ref=11px local=15px",
+            "footer.weight: ref=400 local=350",
+            "footer.lineH: ref=24px local=22.5px",
+            "section.weight: ref=400 local=350"
+          ]
+        },
+        "color": {
+          "score": 0.8333333333333334,
+          "diffs": [
+            "body.color: ref=#17253d local=#020202",
+            "body.bg: ref=#fffdfb local=#ffffff",
+            "a.color: ref=#0067b8 local=#262626"
+          ]
+        },
+        "spacing": {
+          "score": 1.0,
+          "diffs": []
+        },
+        "layout": {
+          "score": 0.5,
+          "diffs": [
+            "heading count: ref=52 local=97",
+            "image count: ref=126 local=192"
+          ]
+        },
+        "content": {
+          "score": 1.0,
+          "diffs": []
+        }
+      },
+      "score": 0.7861111111111111
+    }
+  }
+}
