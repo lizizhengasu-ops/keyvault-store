@@ -98,4 +98,14 @@ docs/seo-knowledge/ 目录包含:
 
 ---
 
-本文件由 Codex 于 2026-07-06 自动生成，用于版本追踪和知识留存。
+ 本文件由 Codex 于 2026-07-06 自动生成，用于版本追踪和知识留存。
+
+## 八、电商模板清单（HTML 模板库）
+
+| 版本 | 日期 | 文件 | 制作人 | 说明 |
+|------|------|------|--------|------|
+| V1 | 2026-07-06 | keystarter-premium-ms-store-20260706-Gemini-V1.html | Gemini | 高级微软授权电商落地页模板。7大板块：Hero/商品展示/企业合规/对比矩阵/FAQ/交付中心。10款SKU卡片+分类筛选+暗色B2B区块+模拟结算抽屉+互动下单。Tailwind+FontAwesome+原生JS。 |
+
+分析文档: keystarter-premium-ms-store-20260706-Gemini-V1-README.md
+
+- 新增到 docs/seo-knowledge/ 目录
